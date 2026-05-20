@@ -1,0 +1,170 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Soccer Analytics summary poster style
+%%% for use with tikzposter.sty
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\usepackage{qrcode}
+% =================================================================
+\renewcommand{\familydefault}{\sfdefault}
+\newcommand{\project}[3]{\gdef\thegroup{#1}\gdef\theteam{#2}\gdef\thetask{#3}}
+\newcommand{\students}[1]{\gdef\thestudents{#1}}
+% =================================================================
+% -- modify tikzposter style
+\tikzposterlatexaffectionproofoff
+% -----------------------------------------------------------------
+\newcommand{\maincolor}[1]{\colorlet{COLOR}{#1}
+  \definecolorstyle{SoccerAnalytics}{}
+  {
+    % Background Colors
+    \colorlet{backgroundcolor}{COLOR!10!white}
+    \colorlet{framecolor}{white}
+    % Title Colors
+    \colorlet{titlefgcolor}{COLOR}
+    \colorlet{titlebgcolor}{white}
+    % Block Colors
+    \colorlet{blocktitlebgcolor}{backgroundcolor}
+    \colorlet{blocktitlefgcolor}{COLOR}
+    \colorlet{blockbodybgcolor}{white}
+    \colorlet{blockbodyfgcolor}{black}
+    % Innerblock Colors
+    \colorlet{innerblocktitlefgcolor}{COLOR}
+    \colorlet{innerblocktitlebgcolor}{backgroundcolor}
+    \colorlet{innerblockbodyfgcolor}{black}
+    \colorlet{innerblockbodybgcolor}{backgroundcolor}
+    % Note colors
+    \colorlet{notefgcolor}{black}
+    \colorlet{notebgcolor}{gray!50!white}
+    \colorlet{noteframecolor}{gray}
+  }
+  \usecolorstyle{SoccerAnalytics}
+}
+% -----------------------------------------------------------------
+\defineblockstyle{SoccerAnalytics}{titleleft=true}
+{ \fill[white] (blockbody.south west) rectangle (blockbody.north east); }
+% -----------------------------------------------------------------
+\definebackgroundstyle{SoccerAnalytics}
+{
+  \draw (-0.5\textwidth,0.5\textheight)
+    node[anchor=north west]{\includegraphics[height=20mm]{ethz}};
+  \draw (0.5\textwidth,0.5\textheight)
+    node[anchor=north east]{\sf\begin{tabular}{r@{}}
+      851-0557-00L Soccer Analytics\\FS 2026
+    \end{tabular}};
+  \path (topright) ++(0,-80mm) coordinate (TR);
+  \fill[COLOR!10!white] (bottomleft) rectangle (TR);
+  \draw[white,line width=3mm]
+    (TR) -- ($(TR)!0.5!(bottomleft)$) circle(3mm) circle(120mm) -- (bottomleft);
+}
+% -----------------------------------------------------------------
+\definetitlestyle{SoccerAnalytics}{}
+{%
+  \begin{scope}[COLOR]
+    \coordinate(TL) at (-0.5\textwidth,0.5\textheight-40mm);
+    \clip (TL) rectangle +(\textwidth,-20mm);
+    \draw[line width=1mm] (TL) rectangle ++(\textwidth,-20mm);
+    \draw[line width=0.5mm] 
+      (TL) circle (3mm) ++(\textwidth,0) circle (3mm)
+      ++(0,-20mm) circle (3mm) ++(-\textwidth,0) circle (3mm);
+    \draw (TL)++(0.5\textwidth,-10mm)
+      node[anchor=center]{%
+       \begin{minipage}{\textwidth-20mm}
+         \raisebox{4mm}{\color{COLOR}\qrcode[height=16mm,nolinks]{https://gitlab.ethz.ch/socceranalytics/uefa-cl-2025-2026/-/wikis/\theteam-\thetask}}
+         ~{\Large\textbf{\theteam~--~\thetask}}
+         \hfill
+         \thestudents~(\thegroup)
+       \end{minipage}%
+      };
+  \end{scope}
+  \setlength\titleposbottom{0.5\textheight-70mm}
+}
+% -----------------------------------------------------------------
+\definelayouttheme{SoccerAnalytics}
+{
+  \usecolorstyle{SoccerAnalytics}
+  \usebackgroundstyle{SoccerAnalytics}
+  \usetitlestyle{SoccerAnalytics}
+  \useblockstyle{SoccerAnalytics}
+  \useinnerblockstyle{Default}
+}
+% =================================================================
+\usetheme{SoccerAnalytics}
+% =================================================================
+
+% -- ETH corporate design colors
+\definecolor{blue}{HTML}{215CAF}
+\definecolor{petrol}{HTML}{007894}
+\definecolor{green}{HTML}{627313}
+\definecolor{bronze}{HTML}{8E6713}
+\definecolor{red}{HTML}{B7352D}
+\definecolor{purple}{HTML}{A7117A}
+\definecolor{grey}{HTML}{6F6F6F}
+
+% -- 80%
+\definecolor{blue80}{HTML}{4D7DBF}
+\definecolor{petrol80}{HTML}{3395AB}
+\definecolor{green80}{HTML}{818F42}
+\definecolor{bronze80}{HTML}{A58542}
+\definecolor{red80}{HTML}{C55D57}
+\definecolor{purple80}{HTML}{B73B92}
+\definecolor{grey80}{HTML}{8C8C8C}
+
+% -- 60%
+\definecolor{blue60}{HTML}{7A9DCF}
+\definecolor{petrol60}{HTML}{66AFC0}
+\definecolor{green60}{HTML}{A1AB71}
+\definecolor{bronze60}{HTML}{BBA471}
+\definecolor{red60}{HTML}{D48681}
+\definecolor{purple60}{HTML}{CA6CAE}
+\definecolor{grey60}{HTML}{A9A9A9}
+
+% -- 40%
+\definecolor{blue40}{HTML}{A6BEDF}
+\definecolor{petrol40}{HTML}{99CAD5}
+\definecolor{green40}{HTML}{C0C7A1}
+\definecolor{bronze40}{HTML}{D2C2A1}
+\definecolor{red40}{HTML}{E2AEAB}
+\definecolor{purple40}{HTML}{DC9EC9}
+\definecolor{grey40}{HTML}{C5C5C5}
+
+% -- 20%
+\definecolor{blue20}{HTML}{D3DEEF}
+\definecolor{petrol20}{HTML}{CCE4EA}
+\definecolor{green20}{HTML}{E0E3D0}
+\definecolor{bronze20}{HTML}{E8E1D0}
+\definecolor{red20}{HTML}{F1D7D5}
+\definecolor{purple20}{HTML}{EFD0E3}
+\definecolor{grey20}{HTML}{E2E2E2}
+
+% -- 10%
+\definecolor{blue10}{HTML}{E9EFF7}
+\definecolor{petrol10}{HTML}{E7F4F7}
+\definecolor{green10}{HTML}{EFF1E7}
+\definecolor{bronze10}{HTML}{F4F0E7}
+\definecolor{red10}{HTML}{F8EBEA}
+\definecolor{purple10}{HTML}{F8E8F3}
+\definecolor{grey10}{HTML}{F1F1F1}
+
+% -- dark
+\definecolor{darkblue}{HTML}{08407E}
+\definecolor{darkpetrol}{HTML}{00596D}
+\definecolor{darkgreen}{HTML}{365213}
+\definecolor{darkbronze}{HTML}{956013}
+\definecolor{darkred}{HTML}{96272D}
+\definecolor{darkpurple}{HTML}{8C0A59}
+\definecolor{darkgrey}{HTML}{575757}
+
+% -- football vertical
+\colorlet{F}{red}
+\colorlet{AM}{red60}
+\colorlet{M}{grey20}
+\colorlet{DM}{blue60}
+\colorlet{B}{blue}
+
+% -- football horizontal
+\colorlet{L}{bronze}
+\colorlet{LC}{bronze40}
+\colorlet{C}{grey20}
+\colorlet{RC}{green40}
+\colorlet{R}{green}
+
+\colorlet{COLOR}{green}

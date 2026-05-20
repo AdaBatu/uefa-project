@@ -1,0 +1,1588 @@
+[
+  {
+    "team_id": 961,
+    "team_name": "Olympiacos",
+    "lineup": [
+      {
+        "player_id": 5226,
+        "player_name": "Mehdi Taremi",
+        "player_nickname": null,
+        "birth_date": "1992-07-18",
+        "player_gender": "male",
+        "player_height": 187.0,
+        "player_weight": 80.0,
+        "jersey_number": 99,
+        "positions": [
+          {
+            "position_id": 19,
+            "position": "Center Attacking Midfield",
+            "from": "00:00:00.000",
+            "to": "01:15:54.495",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Starting XI",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 23,
+            "position": "Center Forward",
+            "from": "01:15:54.495",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 1,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 107,
+          "name": "Iran"
+        }
+      },
+      {
+        "player_id": 5229,
+        "player_name": "Ayoub El Kaabi",
+        "player_nickname": null,
+        "birth_date": "1993-06-25",
+        "player_gender": "male",
+        "player_height": 182.0,
+        "player_weight": 72.0,
+        "jersey_number": 9,
+        "positions": [
+          {
+            "position_id": 23,
+            "position": "Center Forward",
+            "from": "00:00:00.000",
+            "to": "01:11:03.788",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Starting XI",
+            "end_reason": "Substitution - Off (Tactical)",
+            "counterpart_id": 10597,
+            "counterpart_name": "Francisco Leonel Lima Silva Machado"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 154,
+          "name": "Morocco"
+        }
+      },
+      {
+        "player_id": 5723,
+        "player_name": "Gelson Dany Batalha Martins",
+        "player_nickname": "Gelson Martins",
+        "birth_date": "1995-05-11",
+        "player_gender": "male",
+        "player_height": 173.0,
+        "player_weight": 72.0,
+        "jersey_number": 10,
+        "positions": [
+          {
+            "position_id": 21,
+            "position": "Left Wing",
+            "from": "00:00:00.000",
+            "to": "01:27:21.987",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Starting XI",
+            "end_reason": "Substitution - Off (Tactical)",
+            "counterpart_id": 133780,
+            "counterpart_name": "Sopuruchukwu Bruno Onyemaechi"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 1,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 183,
+          "name": "Portugal"
+        }
+      },
+      {
+        "player_id": 6775,
+        "player_name": "Daniel García Carrillo",
+        "player_nickname": "Dani García",
+        "birth_date": "1990-05-24",
+        "player_gender": "male",
+        "player_height": 180.0,
+        "player_weight": 81.0,
+        "jersey_number": 14,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 214,
+          "name": "Spain"
+        }
+      },
+      {
+        "player_id": 8968,
+        "player_name": "Panagiotis Retsos",
+        "player_nickname": null,
+        "birth_date": "1998-08-09",
+        "player_gender": "male",
+        "player_height": 186.0,
+        "player_weight": 79.0,
+        "jersey_number": 45,
+        "positions": [
+          {
+            "position_id": 3,
+            "position": "Right Center Back",
+            "from": "00:00:00.000",
+            "to": null,
+            "from_period": 1,
+            "to_period": null,
+            "start_reason": "Starting XI",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 88,
+          "name": "Greece"
+        }
+      },
+      {
+        "player_id": 10597,
+        "player_name": "Francisco Leonel Lima Silva Machado",
+        "player_nickname": "Chiquinho",
+        "birth_date": "1995-07-19",
+        "player_gender": "male",
+        "player_height": 175.0,
+        "player_weight": 68.0,
+        "jersey_number": 22,
+        "positions": [
+          {
+            "position_id": 23,
+            "position": "Center Forward",
+            "from": "01:11:03.788",
+            "to": "01:15:54.495",
+            "from_period": 2,
+            "to_period": 2,
+            "start_reason": "Substitution - On (Tactical)",
+            "end_reason": "Tactical Shift",
+            "counterpart_id": 5229,
+            "counterpart_name": "Ayoub El Kaabi"
+          },
+          {
+            "position_id": 19,
+            "position": "Center Attacking Midfield",
+            "from": "01:15:54.495",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 1,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 183,
+          "name": "Portugal"
+        }
+      },
+      {
+        "player_id": 15328,
+        "player_name": "Daniel Castelo Podence",
+        "player_nickname": "Daniel Podence",
+        "birth_date": "1995-10-21",
+        "player_gender": "male",
+        "player_height": 165.0,
+        "player_weight": 58.0,
+        "jersey_number": 56,
+        "positions": [
+          {
+            "position_id": 17,
+            "position": "Right Wing",
+            "from": "01:27:21.947",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Substitution - On (Injury)",
+            "end_reason": "Final Whistle",
+            "counterpart_id": 25139,
+            "counterpart_name": "Rodinei Marcelo de Almeida"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 183,
+          "name": "Portugal"
+        }
+      },
+      {
+        "player_id": 22073,
+        "player_name": "Giulian Biancone",
+        "player_nickname": null,
+        "birth_date": "2000-03-31",
+        "player_gender": "male",
+        "player_height": 187.0,
+        "player_weight": null,
+        "jersey_number": 4,
+        "positions": [
+          {
+            "position_id": 5,
+            "position": "Left Center Back",
+            "from": "00:27:28.906",
+            "to": null,
+            "from_period": 1,
+            "to_period": null,
+            "start_reason": "Substitution - On (Injury)",
+            "end_reason": "Final Whistle",
+            "counterpart_id": 38315,
+            "counterpart_name": "Lorenzo Pirola"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 78,
+          "name": "France"
+        }
+      },
+      {
+        "player_id": 25139,
+        "player_name": "Rodinei Marcelo de Almeida",
+        "player_nickname": "Rodinei",
+        "birth_date": "1992-01-29",
+        "player_gender": "male",
+        "player_height": 176.0,
+        "player_weight": 78.0,
+        "jersey_number": 23,
+        "positions": [
+          {
+            "position_id": 17,
+            "position": "Right Wing",
+            "from": "00:00:00.000",
+            "to": "01:27:21.947",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Starting XI",
+            "end_reason": "Substitution - Off (Injury)",
+            "counterpart_id": 15328,
+            "counterpart_name": "Daniel Castelo Podence"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 31,
+          "name": "Brazil"
+        }
+      },
+      {
+        "player_id": 30399,
+        "player_name": "Francisco Gabriel Ortega",
+        "player_nickname": "Francisco Ortega",
+        "birth_date": "1999-03-19",
+        "player_gender": "male",
+        "player_height": 178.0,
+        "player_weight": 75.0,
+        "jersey_number": 3,
+        "positions": [
+          {
+            "position_id": 6,
+            "position": "Left Back",
+            "from": "00:00:00.000",
+            "to": null,
+            "from_period": 1,
+            "to_period": null,
+            "start_reason": "Starting XI",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 11,
+          "name": "Argentina"
+        }
+      },
+      {
+        "player_id": 31701,
+        "player_name": "Gabriel Tadeu Strefezza Rebelato",
+        "player_nickname": "Gabriel Strefezza",
+        "birth_date": "1997-04-18",
+        "player_gender": "male",
+        "player_height": 168.0,
+        "player_weight": 63.0,
+        "jersey_number": 27,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 31,
+          "name": "Brazil"
+        }
+      },
+      {
+        "player_id": 35480,
+        "player_name": "Santiago Hezze",
+        "player_nickname": null,
+        "birth_date": "2001-10-22",
+        "player_gender": "male",
+        "player_height": 182.0,
+        "player_weight": 72.0,
+        "jersey_number": 32,
+        "positions": [
+          {
+            "position_id": 9,
+            "position": "Right Defensive Midfield",
+            "from": "00:00:00.000",
+            "to": null,
+            "from_period": 1,
+            "to_period": null,
+            "start_reason": "Starting XI",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 1,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 11,
+          "name": "Argentina"
+        }
+      },
+      {
+        "player_id": 38315,
+        "player_name": "Lorenzo Pirola",
+        "player_nickname": null,
+        "birth_date": "2002-02-20",
+        "player_gender": "male",
+        "player_height": 185.0,
+        "player_weight": 75.0,
+        "jersey_number": 5,
+        "positions": [
+          {
+            "position_id": 5,
+            "position": "Left Center Back",
+            "from": "00:00:00.000",
+            "to": "00:27:28.906",
+            "from_period": 1,
+            "to_period": 1,
+            "start_reason": "Starting XI",
+            "end_reason": "Substitution - Off (Injury)",
+            "counterpart_id": 22073,
+            "counterpart_name": "Giulian Biancone"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 112,
+          "name": "Italy"
+        }
+      },
+      {
+        "player_id": 38735,
+        "player_name": "Diogo Andre Santos Nascimento",
+        "player_nickname": "Diogo Nascimento",
+        "birth_date": "2002-11-02",
+        "player_gender": "male",
+        "player_height": 166.0,
+        "player_weight": null,
+        "jersey_number": 8,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 183,
+          "name": "Portugal"
+        }
+      },
+      {
+        "player_id": 38825,
+        "player_name": "Konstantinos Tzolakis",
+        "player_nickname": null,
+        "birth_date": "2002-11-08",
+        "player_gender": "male",
+        "player_height": 193.0,
+        "player_weight": null,
+        "jersey_number": 88,
+        "positions": [
+          {
+            "position_id": 1,
+            "position": "Goalkeeper",
+            "from": "00:00:00.000",
+            "to": null,
+            "from_period": 1,
+            "to_period": null,
+            "start_reason": "Starting XI",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 88,
+          "name": "Greece"
+        }
+      },
+      {
+        "player_id": 42038,
+        "player_name": "João Pedro Loureiro da Costa",
+        "player_nickname": "Costinha",
+        "birth_date": "2000-03-26",
+        "player_gender": "male",
+        "player_height": 181.0,
+        "player_weight": null,
+        "jersey_number": 20,
+        "positions": [
+          {
+            "position_id": 2,
+            "position": "Right Back",
+            "from": "00:00:00.000",
+            "to": null,
+            "from_period": 1,
+            "to_period": null,
+            "start_reason": "Starting XI",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 183,
+          "name": "Portugal"
+        }
+      },
+      {
+        "player_id": 121644,
+        "player_name": "Alexios Kalogeropoulos",
+        "player_nickname": null,
+        "birth_date": "2004-07-26",
+        "player_gender": "male",
+        "player_height": 187.0,
+        "player_weight": 79.0,
+        "jersey_number": 6,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 88,
+          "name": "Greece"
+        }
+      },
+      {
+        "player_id": 133780,
+        "player_name": "Sopuruchukwu Bruno Onyemaechi",
+        "player_nickname": null,
+        "birth_date": "1999-04-03",
+        "player_gender": "male",
+        "player_height": 178.0,
+        "player_weight": 82.0,
+        "jersey_number": 70,
+        "positions": [
+          {
+            "position_id": 21,
+            "position": "Left Wing",
+            "from": "01:27:21.987",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Substitution - On (Tactical)",
+            "end_reason": "Final Whistle",
+            "counterpart_id": 5723,
+            "counterpart_name": "Gelson Dany Batalha Martins"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 166,
+          "name": "Nigeria"
+        }
+      },
+      {
+        "player_id": 137408,
+        "player_name": "Nikolaos Nestoras Botis",
+        "player_nickname": null,
+        "birth_date": "2004-03-31",
+        "player_gender": "male",
+        "player_height": 196.0,
+        "player_weight": null,
+        "jersey_number": 31,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 88,
+          "name": "Greece"
+        }
+      },
+      {
+        "player_id": 237830,
+        "player_name": "Lorenzo Scipioni",
+        "player_nickname": null,
+        "birth_date": "2004-11-24",
+        "player_gender": "male",
+        "player_height": 181.0,
+        "player_weight": 82.0,
+        "jersey_number": 16,
+        "positions": [
+          {
+            "position_id": 11,
+            "position": "Left Defensive Midfield",
+            "from": "01:11:03.535",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Substitution - On (Tactical)",
+            "end_reason": "Final Whistle",
+            "counterpart_id": 425405,
+            "counterpart_name": "Christos Mouzakitis"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 11,
+          "name": "Argentina"
+        }
+      },
+      {
+        "player_id": 425400,
+        "player_name": "Stavros Pnevmonidis",
+        "player_nickname": null,
+        "birth_date": "2006-08-07",
+        "player_gender": "male",
+        "player_height": null,
+        "player_weight": null,
+        "jersey_number": 80,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 88,
+          "name": "Greece"
+        }
+      },
+      {
+        "player_id": 425405,
+        "player_name": "Christos Mouzakitis",
+        "player_nickname": null,
+        "birth_date": "2006-12-25",
+        "player_gender": "male",
+        "player_height": 178.0,
+        "player_weight": null,
+        "jersey_number": 96,
+        "positions": [
+          {
+            "position_id": 11,
+            "position": "Left Defensive Midfield",
+            "from": "00:00:00.000",
+            "to": "01:11:03.535",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Starting XI",
+            "end_reason": "Substitution - Off (Tactical)",
+            "counterpart_id": 237830,
+            "counterpart_name": "Lorenzo Scipioni"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 88,
+          "name": "Greece"
+        }
+      },
+      {
+        "player_id": 447994,
+        "player_name": "Georgios Kouraklis",
+        "player_nickname": null,
+        "birth_date": "2006-03-18",
+        "player_gender": "male",
+        "player_height": null,
+        "player_weight": null,
+        "jersey_number": 61,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 88,
+          "name": "Greece"
+        }
+      }
+    ],
+    "formations": [
+      {
+        "period": 1,
+        "timestamp": "00:00:00.000",
+        "reason": "Starting XI",
+        "formation": 4231
+      }
+    ],
+    "events": [
+      {
+        "period": 1,
+        "timestamp": "00:00:00.000",
+        "type": "Half Start"
+      },
+      {
+        "player_id": 42038,
+        "player_name": "João Pedro Loureiro da Costa",
+        "period": 1,
+        "timestamp": "00:44:36.333",
+        "type": "Foul Committed",
+        "outcome": "Yellow Card"
+      },
+      {
+        "period": 1,
+        "timestamp": "00:48:03.334",
+        "type": "Half End"
+      },
+      {
+        "period": 2,
+        "timestamp": "00:45:00.000",
+        "type": "Half Start"
+      },
+      {
+        "player_id": 35480,
+        "player_name": "Santiago Hezze",
+        "period": 2,
+        "timestamp": "00:48:47.407",
+        "type": "Foul Committed",
+        "outcome": "Yellow Card"
+      },
+      {
+        "player_id": 5226,
+        "player_name": "Mehdi Taremi",
+        "period": 2,
+        "timestamp": "00:51:19.870",
+        "type": "Ground Pass",
+        "outcome": "Assist"
+      },
+      {
+        "player_id": 5723,
+        "player_name": "Gelson Dany Batalha Martins",
+        "period": 2,
+        "timestamp": "00:51:21.644",
+        "type": "Shot",
+        "outcome": "Goal"
+      },
+      {
+        "player_id": 10597,
+        "player_name": "Francisco Leonel Lima Silva Machado",
+        "period": 2,
+        "timestamp": "01:18:31.815",
+        "type": "High Pass",
+        "outcome": "Assist"
+      },
+      {
+        "player_id": 35480,
+        "player_name": "Santiago Hezze",
+        "period": 2,
+        "timestamp": "01:18:33.026",
+        "type": "Shot",
+        "outcome": "Goal"
+      },
+      {
+        "period": 2,
+        "timestamp": "01:35:02.220",
+        "type": "Half End"
+      }
+    ]
+  },
+  {
+    "team_id": 806,
+    "team_name": "Ajax",
+    "lineup": [
+      {
+        "player_id": 4318,
+        "player_name": "Davy Klaassen",
+        "player_nickname": null,
+        "birth_date": "1993-02-21",
+        "player_gender": "male",
+        "player_height": 179.0,
+        "player_weight": 70.0,
+        "jersey_number": 18,
+        "positions": [
+          {
+            "position_id": 19,
+            "position": "Center Attacking Midfield",
+            "from": "00:00:00.000",
+            "to": "01:08:59.964",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Starting XI",
+            "end_reason": "Substitution - Off (Tactical)",
+            "counterpart_id": 414700,
+            "counterpart_name": "Rayane Bounida"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 160,
+          "name": "Netherlands"
+        }
+      },
+      {
+        "player_id": 6302,
+        "player_name": "Kasper Dolberg",
+        "player_nickname": null,
+        "birth_date": "1997-10-06",
+        "player_gender": "male",
+        "player_height": 186.0,
+        "player_weight": 82.0,
+        "jersey_number": 9,
+        "positions": [
+          {
+            "position_id": 23,
+            "position": "Center Forward",
+            "from": "00:00:00.000",
+            "to": "01:19:54.792",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Starting XI",
+            "end_reason": "Substitution - Off (Off Camera)",
+            "counterpart_id": 7829,
+            "counterpart_name": "Wout Weghorst"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 1,
+          "assists": 0,
+          "penalties_scored": 1,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 61,
+          "name": "Denmark"
+        }
+      },
+      {
+        "player_id": 7829,
+        "player_name": "Wout Weghorst",
+        "player_nickname": null,
+        "birth_date": "1992-08-07",
+        "player_gender": "male",
+        "player_height": 197.0,
+        "player_weight": 90.0,
+        "jersey_number": 25,
+        "positions": [
+          {
+            "position_id": 23,
+            "position": "Center Forward",
+            "from": "01:19:54.792",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Substitution - On (Off Camera)",
+            "end_reason": "Final Whistle",
+            "counterpart_id": 6302,
+            "counterpart_name": "Kasper Dolberg"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 160,
+          "name": "Netherlands"
+        }
+      },
+      {
+        "player_id": 7890,
+        "player_name": "Owen Wijndal",
+        "player_nickname": null,
+        "birth_date": "1999-11-28",
+        "player_gender": "male",
+        "player_height": 176.0,
+        "player_weight": 65.0,
+        "jersey_number": 5,
+        "positions": [
+          {
+            "position_id": 6,
+            "position": "Left Back",
+            "from": "00:00:00.000",
+            "to": "01:27:07.117",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Starting XI",
+            "end_reason": "Substitution - Off (Tactical)",
+            "counterpart_id": 428133,
+            "counterpart_name": "Pharell Nash"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 160,
+          "name": "Netherlands"
+        }
+      },
+      {
+        "player_id": 32493,
+        "player_name": "Oliver Valaker Edvardsen",
+        "player_nickname": null,
+        "birth_date": "1999-03-19",
+        "player_gender": "male",
+        "player_height": 175.0,
+        "player_weight": 65.0,
+        "jersey_number": 17,
+        "positions": [
+          {
+            "position_id": 17,
+            "position": "Right Wing",
+            "from": "01:08:59.884",
+            "to": "01:11:53.890",
+            "from_period": 2,
+            "to_period": 2,
+            "start_reason": "Substitution - On (Tactical)",
+            "end_reason": "Player Off",
+            "counterpart_id": 411733,
+            "counterpart_name": "Sean Steur"
+          },
+          {
+            "position_id": 17,
+            "position": "Right Wing",
+            "from": "01:12:30.370",
+            "to": "01:27:42.546",
+            "from_period": 2,
+            "to_period": 2,
+            "start_reason": "Player On",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 13,
+            "position": "Right Center Midfield",
+            "from": "01:27:42.546",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 171,
+          "name": "Norway"
+        }
+      },
+      {
+        "player_id": 36159,
+        "player_name": "Youri Regeer",
+        "player_nickname": null,
+        "birth_date": "2003-08-18",
+        "player_gender": "male",
+        "player_height": 177.0,
+        "player_weight": null,
+        "jersey_number": 6,
+        "positions": [
+          {
+            "position_id": 9,
+            "position": "Right Defensive Midfield",
+            "from": "00:00:00.000",
+            "to": "01:27:42.546",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Starting XI",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 10,
+            "position": "Center Defensive Midfield",
+            "from": "01:27:42.546",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 160,
+          "name": "Netherlands"
+        }
+      },
+      {
+        "player_id": 37148,
+        "player_name": "Josip Šutalo",
+        "player_nickname": null,
+        "birth_date": "2000-02-28",
+        "player_gender": "male",
+        "player_height": 190.0,
+        "player_weight": 82.0,
+        "jersey_number": 37,
+        "positions": [
+          {
+            "position_id": 3,
+            "position": "Right Center Back",
+            "from": "00:00:00.000",
+            "to": null,
+            "from_period": 1,
+            "to_period": null,
+            "start_reason": "Starting XI",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 56,
+          "name": "Croatia"
+        }
+      },
+      {
+        "player_id": 39535,
+        "player_name": "Kian Fitz-Jim",
+        "player_nickname": null,
+        "birth_date": "2003-07-05",
+        "player_gender": "male",
+        "player_height": 174.0,
+        "player_weight": 70.0,
+        "jersey_number": 28,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 160,
+          "name": "Netherlands"
+        }
+      },
+      {
+        "player_id": 40207,
+        "player_name": "Vitezslav Jaros",
+        "player_nickname": null,
+        "birth_date": "2001-07-23",
+        "player_gender": "male",
+        "player_height": 190.0,
+        "player_weight": 73.0,
+        "jersey_number": 1,
+        "positions": [
+          {
+            "position_id": 1,
+            "position": "Goalkeeper",
+            "from": "00:00:00.000",
+            "to": null,
+            "from_period": 1,
+            "to_period": null,
+            "start_reason": "Starting XI",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 60,
+          "name": "Czech Republic"
+        }
+      },
+      {
+        "player_id": 63071,
+        "player_name": "Youri Baas",
+        "player_nickname": null,
+        "birth_date": "2003-03-17",
+        "player_gender": "male",
+        "player_height": 182.0,
+        "player_weight": 76.0,
+        "jersey_number": 15,
+        "positions": [
+          {
+            "position_id": 5,
+            "position": "Left Center Back",
+            "from": "00:00:00.000",
+            "to": null,
+            "from_period": 1,
+            "to_period": null,
+            "start_reason": "Starting XI",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 160,
+          "name": "Netherlands"
+        }
+      },
+      {
+        "player_id": 209236,
+        "player_name": "Mika Marcel Godts",
+        "player_nickname": null,
+        "birth_date": "2005-06-07",
+        "player_gender": "male",
+        "player_height": 176.0,
+        "player_weight": 70.0,
+        "jersey_number": 11,
+        "positions": [
+          {
+            "position_id": 21,
+            "position": "Left Wing",
+            "from": "00:00:00.000",
+            "to": "01:27:42.546",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Starting XI",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 16,
+            "position": "Left Midfield",
+            "from": "01:27:42.546",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 22,
+          "name": "Belgium"
+        }
+      },
+      {
+        "player_id": 225741,
+        "player_name": "Anton Gaaei",
+        "player_nickname": null,
+        "birth_date": "2002-11-19",
+        "player_gender": "male",
+        "player_height": 183.0,
+        "player_weight": 72.0,
+        "jersey_number": 3,
+        "positions": [
+          {
+            "position_id": 2,
+            "position": "Right Back",
+            "from": "00:00:00.000",
+            "to": null,
+            "from_period": 1,
+            "to_period": null,
+            "start_reason": "Starting XI",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 61,
+          "name": "Denmark"
+        }
+      },
+      {
+        "player_id": 235995,
+        "player_name": "Oscar Gloukh",
+        "player_nickname": null,
+        "birth_date": "2004-04-01",
+        "player_gender": "male",
+        "player_height": 170.0,
+        "player_weight": 68.0,
+        "jersey_number": 10,
+        "positions": [
+          {
+            "position_id": 17,
+            "position": "Right Wing",
+            "from": "00:00:00.000",
+            "to": "01:09:00.004",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Starting XI",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 11,
+            "position": "Left Defensive Midfield",
+            "from": "01:09:00.004",
+            "to": "01:19:54.832",
+            "from_period": 2,
+            "to_period": 2,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Substitution - Off (Off Camera)",
+            "counterpart_id": 426959,
+            "counterpart_name": "Jorthy Mokio"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 111,
+          "name": "Israel"
+        }
+      },
+      {
+        "player_id": 330938,
+        "player_name": "Lucas Oliveira Rosa",
+        "player_nickname": "Lucas Rosa",
+        "birth_date": "2000-04-03",
+        "player_gender": "male",
+        "player_height": 177.0,
+        "player_weight": 68.0,
+        "jersey_number": 2,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 31,
+          "name": "Brazil"
+        }
+      },
+      {
+        "player_id": 338223,
+        "player_name": "Paul Peters Reverson",
+        "player_nickname": null,
+        "birth_date": "2005-06-20",
+        "player_gender": "male",
+        "player_height": null,
+        "player_weight": null,
+        "jersey_number": 52,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 160,
+          "name": "Netherlands"
+        }
+      },
+      {
+        "player_id": 338224,
+        "player_name": "Gerald Alders",
+        "player_nickname": null,
+        "birth_date": "2005-05-07",
+        "player_gender": "male",
+        "player_height": 179.0,
+        "player_weight": null,
+        "jersey_number": 41,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 160,
+          "name": "Netherlands"
+        }
+      },
+      {
+        "player_id": 411728,
+        "player_name": "Mylo van der Lans",
+        "player_nickname": null,
+        "birth_date": "2007-04-11",
+        "player_gender": "male",
+        "player_height": null,
+        "player_weight": null,
+        "jersey_number": 53,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 160,
+          "name": "Netherlands"
+        }
+      },
+      {
+        "player_id": 411729,
+        "player_name": "Aaron Bouwman",
+        "player_nickname": null,
+        "birth_date": "2007-08-28",
+        "player_gender": "male",
+        "player_height": 188.0,
+        "player_weight": null,
+        "jersey_number": 30,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 160,
+          "name": "Netherlands"
+        }
+      },
+      {
+        "player_id": 411733,
+        "player_name": "Sean Steur",
+        "player_nickname": null,
+        "birth_date": "2008-01-11",
+        "player_gender": "male",
+        "player_height": null,
+        "player_weight": null,
+        "jersey_number": 48,
+        "positions": [
+          {
+            "position_id": 11,
+            "position": "Left Defensive Midfield",
+            "from": "00:00:00.000",
+            "to": "01:08:59.884",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Starting XI",
+            "end_reason": "Substitution - Off (Tactical)",
+            "counterpart_id": 32493,
+            "counterpart_name": "Oliver Valaker Edvardsen"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 160,
+          "name": "Netherlands"
+        }
+      },
+      {
+        "player_id": 411760,
+        "player_name": "Joeri Jesse Heerkens",
+        "player_nickname": null,
+        "birth_date": "2006-05-08",
+        "player_gender": "male",
+        "player_height": 193.0,
+        "player_weight": null,
+        "jersey_number": 12,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 160,
+          "name": "Netherlands"
+        }
+      },
+      {
+        "player_id": 414700,
+        "player_name": "Rayane Bounida",
+        "player_nickname": null,
+        "birth_date": "2006-03-03",
+        "player_gender": "male",
+        "player_height": 162.0,
+        "player_weight": null,
+        "jersey_number": 43,
+        "positions": [
+          {
+            "position_id": 19,
+            "position": "Center Attacking Midfield",
+            "from": "01:08:59.964",
+            "to": "01:27:42.546",
+            "from_period": 2,
+            "to_period": 2,
+            "start_reason": "Substitution - On (Tactical)",
+            "end_reason": "Tactical Shift",
+            "counterpart_id": 4318,
+            "counterpart_name": "Davy Klaassen"
+          },
+          {
+            "position_id": 15,
+            "position": "Left Center Midfield",
+            "from": "01:27:42.546",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 22,
+          "name": "Belgium"
+        }
+      },
+      {
+        "player_id": 426959,
+        "player_name": "Jorthy Mokio",
+        "player_nickname": null,
+        "birth_date": "2008-02-29",
+        "player_gender": "male",
+        "player_height": 182.0,
+        "player_weight": null,
+        "jersey_number": 24,
+        "positions": [
+          {
+            "position_id": 11,
+            "position": "Left Defensive Midfield",
+            "from": "01:19:54.832",
+            "to": "01:27:42.546",
+            "from_period": 2,
+            "to_period": 2,
+            "start_reason": "Substitution - On (Off Camera)",
+            "end_reason": "Tactical Shift",
+            "counterpart_id": 235995,
+            "counterpart_name": "Oscar Gloukh"
+          },
+          {
+            "position_id": 6,
+            "position": "Left Back",
+            "from": "01:27:42.546",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 22,
+          "name": "Belgium"
+        }
+      },
+      {
+        "player_id": 428133,
+        "player_name": "Pharell Nash",
+        "player_nickname": null,
+        "birth_date": "2008-02-07",
+        "player_gender": "male",
+        "player_height": null,
+        "player_weight": null,
+        "jersey_number": 66,
+        "positions": [
+          {
+            "position_id": 6,
+            "position": "Left Back",
+            "from": "01:27:07.117",
+            "to": "01:27:42.546",
+            "from_period": 2,
+            "to_period": 2,
+            "start_reason": "Substitution - On (Tactical)",
+            "end_reason": "Tactical Shift",
+            "counterpart_id": 7890,
+            "counterpart_name": "Owen Wijndal"
+          },
+          {
+            "position_id": 12,
+            "position": "Right Midfield",
+            "from": "01:27:42.546",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 160,
+          "name": "Netherlands"
+        }
+      }
+    ],
+    "formations": [
+      {
+        "period": 1,
+        "timestamp": "00:00:00.000",
+        "reason": "Starting XI",
+        "formation": 4231
+      },
+      {
+        "period": 2,
+        "timestamp": "01:27:42.546",
+        "reason": "Tactical Shift",
+        "formation": 4141
+      }
+    ],
+    "events": [
+      {
+        "period": 1,
+        "timestamp": "00:00:00.000",
+        "type": "Half Start"
+      },
+      {
+        "period": 1,
+        "timestamp": "00:48:03.334",
+        "type": "Half End"
+      },
+      {
+        "period": 2,
+        "timestamp": "00:45:00.000",
+        "type": "Half Start"
+      },
+      {
+        "player_id": 6302,
+        "player_name": "Kasper Dolberg",
+        "period": 2,
+        "timestamp": "01:08:08.718",
+        "type": "Penalty",
+        "outcome": "Goal"
+      },
+      {
+        "period": 2,
+        "timestamp": "01:35:02.220",
+        "type": "Half End"
+      }
+    ]
+  }
+]

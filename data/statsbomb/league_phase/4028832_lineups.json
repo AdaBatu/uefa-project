@@ -1,0 +1,1646 @@
+[
+  {
+    "team_id": 1,
+    "team_name": "Arsenal",
+    "lineup": [
+      {
+        "player_id": 3042,
+        "player_name": "Mikel Merino Zazón",
+        "player_nickname": "Mikel Merino",
+        "birth_date": "1996-06-22",
+        "player_gender": "male",
+        "player_height": 181.0,
+        "player_weight": 83.0,
+        "jersey_number": 23,
+        "positions": [
+          {
+            "position_id": 13,
+            "position": "Right Center Midfield",
+            "from": "00:00:00.000",
+            "to": "01:18:39.097",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Starting XI",
+            "end_reason": "Player Off"
+          },
+          {
+            "position_id": 13,
+            "position": "Right Center Midfield",
+            "from": "01:20:13.776",
+            "to": "01:30:23.816",
+            "from_period": 2,
+            "to_period": 2,
+            "start_reason": "Player On",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 23,
+            "position": "Center Forward",
+            "from": "01:30:23.816",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 214,
+          "name": "Spain"
+        }
+      },
+      {
+        "player_id": 3943,
+        "player_name": "Declan Rice",
+        "player_nickname": null,
+        "birth_date": "1999-01-14",
+        "player_gender": "male",
+        "player_height": 185.0,
+        "player_weight": 84.0,
+        "jersey_number": 41,
+        "positions": [
+          {
+            "position_id": 15,
+            "position": "Left Center Midfield",
+            "from": "00:00:00.000",
+            "to": "01:30:23.816",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Starting XI",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 13,
+            "position": "Right Center Midfield",
+            "from": "01:30:23.816",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 68,
+          "name": "England"
+        }
+      },
+      {
+        "player_id": 4127,
+        "player_name": "David Raya Martin",
+        "player_nickname": "David Raya",
+        "birth_date": "1995-09-15",
+        "player_gender": "male",
+        "player_height": 183.0,
+        "player_weight": 80.0,
+        "jersey_number": 1,
+        "positions": [
+          {
+            "position_id": 1,
+            "position": "Goalkeeper",
+            "from": "00:00:00.000",
+            "to": null,
+            "from_period": 1,
+            "to_period": null,
+            "start_reason": "Starting XI",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 214,
+          "name": "Spain"
+        }
+      },
+      {
+        "player_id": 6395,
+        "player_name": "Kepa Arrizabalaga Revuelta",
+        "player_nickname": "Kepa",
+        "birth_date": "1994-10-03",
+        "player_gender": "male",
+        "player_height": 189.0,
+        "player_weight": 88.0,
+        "jersey_number": 13,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 214,
+          "name": "Spain"
+        }
+      },
+      {
+        "player_id": 6406,
+        "player_name": "Gabriel dos Santos Magalhães",
+        "player_nickname": "Gabriel",
+        "birth_date": "1997-12-19",
+        "player_gender": "male",
+        "player_height": 190.0,
+        "player_weight": 78.0,
+        "jersey_number": 6,
+        "positions": [
+          {
+            "position_id": 5,
+            "position": "Left Center Back",
+            "from": "00:00:00.000",
+            "to": null,
+            "from_period": 1,
+            "to_period": null,
+            "start_reason": "Starting XI",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 31,
+          "name": "Brazil"
+        }
+      },
+      {
+        "player_id": 7097,
+        "player_name": "Christian Nørgaard",
+        "player_nickname": null,
+        "birth_date": "1994-03-10",
+        "player_gender": "male",
+        "player_height": 187.0,
+        "player_weight": 77.0,
+        "jersey_number": 16,
+        "positions": [
+          {
+            "position_id": 17,
+            "position": "Right Wing",
+            "from": "01:30:02.844",
+            "to": "01:30:23.816",
+            "from_period": 2,
+            "to_period": 2,
+            "start_reason": "Substitution - On (Tactical)",
+            "end_reason": "Tactical Shift",
+            "counterpart_id": 31506,
+            "counterpart_name": "Chukwunonso Madueke"
+          },
+          {
+            "position_id": 10,
+            "position": "Center Defensive Midfield",
+            "from": "01:30:23.816",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 61,
+          "name": "Denmark"
+        }
+      },
+      {
+        "player_id": 9000,
+        "player_name": "Eberechi Eze",
+        "player_nickname": null,
+        "birth_date": "1998-06-29",
+        "player_gender": "male",
+        "player_height": 173.0,
+        "player_weight": 74.0,
+        "jersey_number": 10,
+        "positions": [
+          {
+            "position_id": 21,
+            "position": "Left Wing",
+            "from": "00:00:00.000",
+            "to": "01:10:22.242",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Starting XI",
+            "end_reason": "Substitution - Off (Tactical)",
+            "counterpart_id": 29976,
+            "counterpart_name": "Gabriel Teodoro Martinelli Silva"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 68,
+          "name": "England"
+        }
+      },
+      {
+        "player_id": 16559,
+        "player_name": "Leandro Trossard",
+        "player_nickname": null,
+        "birth_date": "1994-12-04",
+        "player_gender": "male",
+        "player_height": 171.0,
+        "player_weight": 61.0,
+        "jersey_number": 19,
+        "positions": [
+          {
+            "position_id": 23,
+            "position": "Center Forward",
+            "from": "01:04:09.756",
+            "to": "01:30:23.816",
+            "from_period": 2,
+            "to_period": 2,
+            "start_reason": "Substitution - On (Tactical)",
+            "end_reason": "Tactical Shift",
+            "counterpart_id": 29040,
+            "counterpart_name": "Viktor Gyökeres"
+          },
+          {
+            "position_id": 21,
+            "position": "Left Wing",
+            "from": "01:30:23.816",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 1,
+          "assists": 1,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 22,
+          "name": "Belgium"
+        }
+      },
+      {
+        "player_id": 17592,
+        "player_name": "William Saliba",
+        "player_nickname": null,
+        "birth_date": "2001-03-24",
+        "player_gender": "male",
+        "player_height": 192.0,
+        "player_weight": 92.0,
+        "jersey_number": 2,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 78,
+          "name": "France"
+        }
+      },
+      {
+        "player_id": 21809,
+        "player_name": "Jurriën David Norman Timber",
+        "player_nickname": "Jurriën Timber",
+        "birth_date": "2001-06-17",
+        "player_gender": "male",
+        "player_height": 179.0,
+        "player_weight": 79.0,
+        "jersey_number": 12,
+        "positions": [
+          {
+            "position_id": 2,
+            "position": "Right Back",
+            "from": "00:00:00.000",
+            "to": null,
+            "from_period": 1,
+            "to_period": null,
+            "start_reason": "Starting XI",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 160,
+          "name": "Netherlands"
+        }
+      },
+      {
+        "player_id": 24921,
+        "player_name": "Martín Zubimendi Ibáñez",
+        "player_nickname": "Martín Zubimendi",
+        "birth_date": "1999-02-02",
+        "player_gender": "male",
+        "player_height": 181.0,
+        "player_weight": 74.0,
+        "jersey_number": 36,
+        "positions": [
+          {
+            "position_id": 10,
+            "position": "Center Defensive Midfield",
+            "from": "00:00:00.000",
+            "to": "01:30:23.816",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Starting XI",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 15,
+            "position": "Left Center Midfield",
+            "from": "01:30:23.816",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 214,
+          "name": "Spain"
+        }
+      },
+      {
+        "player_id": 29040,
+        "player_name": "Viktor Gyökeres",
+        "player_nickname": null,
+        "birth_date": "1998-06-04",
+        "player_gender": "male",
+        "player_height": 187.0,
+        "player_weight": 86.0,
+        "jersey_number": 14,
+        "positions": [
+          {
+            "position_id": 23,
+            "position": "Center Forward",
+            "from": "00:00:00.000",
+            "to": "00:33:02.051",
+            "from_period": 1,
+            "to_period": 1,
+            "start_reason": "Starting XI",
+            "end_reason": "Player Off"
+          },
+          {
+            "position_id": 23,
+            "position": "Center Forward",
+            "from": "00:34:12.601",
+            "to": "01:04:09.756",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Player On",
+            "end_reason": "Substitution - Off (Tactical)",
+            "counterpart_id": 16559,
+            "counterpart_name": "Leandro Trossard"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 220,
+          "name": "Sweden"
+        }
+      },
+      {
+        "player_id": 29976,
+        "player_name": "Gabriel Teodoro Martinelli Silva",
+        "player_nickname": "Gabriel Martinelli",
+        "birth_date": "2001-06-18",
+        "player_gender": "male",
+        "player_height": 178.0,
+        "player_weight": 75.0,
+        "jersey_number": 11,
+        "positions": [
+          {
+            "position_id": 21,
+            "position": "Left Wing",
+            "from": "01:10:22.242",
+            "to": "01:30:23.816",
+            "from_period": 2,
+            "to_period": 2,
+            "start_reason": "Substitution - On (Tactical)",
+            "end_reason": "Tactical Shift",
+            "counterpart_id": 9000,
+            "counterpart_name": "Eberechi Eze"
+          },
+          {
+            "position_id": 17,
+            "position": "Right Wing",
+            "from": "01:30:23.816",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 1,
+          "assists": 1,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 31,
+          "name": "Brazil"
+        }
+      },
+      {
+        "player_id": 31506,
+        "player_name": "Chukwunonso Madueke",
+        "player_nickname": "Noni Madueke",
+        "birth_date": "2002-03-10",
+        "player_gender": "male",
+        "player_height": 182.0,
+        "player_weight": 75.0,
+        "jersey_number": 20,
+        "positions": [
+          {
+            "position_id": 17,
+            "position": "Right Wing",
+            "from": "00:00:00.000",
+            "to": "01:30:02.844",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Starting XI",
+            "end_reason": "Substitution - Off (Tactical)",
+            "counterpart_id": 7097,
+            "counterpart_name": "Christian Nørgaard"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 68,
+          "name": "England"
+        }
+      },
+      {
+        "player_id": 38004,
+        "player_name": "Piero Martín Hincapié Reyna",
+        "player_nickname": "Piero Hincapié",
+        "birth_date": "2002-01-09",
+        "player_gender": "male",
+        "player_height": 184.0,
+        "player_weight": 77.0,
+        "jersey_number": 5,
+        "positions": [
+          {
+            "position_id": 6,
+            "position": "Left Back",
+            "from": "01:30:06.911",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Substitution - On (Tactical)",
+            "end_reason": "Final Whistle",
+            "counterpart_id": 41768,
+            "counterpart_name": "Riccardo Calafiori"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 65,
+          "name": "Ecuador"
+        }
+      },
+      {
+        "player_id": 41768,
+        "player_name": "Riccardo Calafiori",
+        "player_nickname": null,
+        "birth_date": "2002-05-19",
+        "player_gender": "male",
+        "player_height": 188.0,
+        "player_weight": 86.0,
+        "jersey_number": 33,
+        "positions": [
+          {
+            "position_id": 6,
+            "position": "Left Back",
+            "from": "00:00:00.000",
+            "to": "01:20:52.761",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Starting XI",
+            "end_reason": "Player Off"
+          },
+          {
+            "position_id": 6,
+            "position": "Left Back",
+            "from": "01:21:19.512",
+            "to": "01:30:06.911",
+            "from_period": 2,
+            "to_period": 2,
+            "start_reason": "Player On",
+            "end_reason": "Substitution - Off (Tactical)",
+            "counterpart_id": 38004,
+            "counterpart_name": "Piero Martín Hincapié Reyna"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 112,
+          "name": "Italy"
+        }
+      },
+      {
+        "player_id": 140353,
+        "player_name": "Cristhian Andrey Mosquera Ibargüen",
+        "player_nickname": "Cristhian Mosquera",
+        "birth_date": "2004-06-27",
+        "player_gender": "male",
+        "player_height": 191.0,
+        "player_weight": 78.0,
+        "jersey_number": 3,
+        "positions": [
+          {
+            "position_id": 3,
+            "position": "Right Center Back",
+            "from": "00:00:00.000",
+            "to": null,
+            "from_period": 1,
+            "to_period": null,
+            "start_reason": "Starting XI",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 214,
+          "name": "Spain"
+        }
+      },
+      {
+        "player_id": 161880,
+        "player_name": "Myles Anthony Lewis-Skelly",
+        "player_nickname": null,
+        "birth_date": "2006-09-26",
+        "player_gender": "male",
+        "player_height": 178.0,
+        "player_weight": null,
+        "jersey_number": 49,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 68,
+          "name": "England"
+        }
+      },
+      {
+        "player_id": 307036,
+        "player_name": "Ethan Chidiebere Nwaneri",
+        "player_nickname": "Ethan Nwaneri",
+        "birth_date": "2007-03-21",
+        "player_gender": "male",
+        "player_height": 174.0,
+        "player_weight": null,
+        "jersey_number": 22,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 68,
+          "name": "England"
+        }
+      },
+      {
+        "player_id": 318019,
+        "player_name": "Tommy Hogan Setford",
+        "player_nickname": null,
+        "birth_date": "2006-03-13",
+        "player_gender": "male",
+        "player_height": 185.0,
+        "player_weight": null,
+        "jersey_number": 35,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 68,
+          "name": "England"
+        }
+      },
+      {
+        "player_id": 432174,
+        "player_name": "Max Dowman",
+        "player_nickname": null,
+        "birth_date": "2009-12-31",
+        "player_gender": "male",
+        "player_height": 183.0,
+        "player_weight": null,
+        "jersey_number": 56,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 68,
+          "name": "England"
+        }
+      }
+    ],
+    "formations": [
+      {
+        "period": 1,
+        "timestamp": "00:00:00.000",
+        "reason": "Starting XI",
+        "formation": 433
+      }
+    ],
+    "events": [
+      {
+        "period": 1,
+        "timestamp": "00:00:00.000",
+        "type": "Half Start"
+      },
+      {
+        "player_id": 3943,
+        "player_name": "Declan Rice",
+        "period": 1,
+        "timestamp": "00:06:43.898",
+        "type": "Foul Committed",
+        "outcome": "Yellow Card"
+      },
+      {
+        "period": 1,
+        "timestamp": "00:48:41.672",
+        "type": "Half End"
+      },
+      {
+        "period": 2,
+        "timestamp": "00:45:00.000",
+        "type": "Half Start"
+      },
+      {
+        "player_id": 16559,
+        "player_name": "Leandro Trossard",
+        "period": 2,
+        "timestamp": "01:11:05.743",
+        "type": "High Pass",
+        "outcome": "Assist"
+      },
+      {
+        "player_id": 29976,
+        "player_name": "Gabriel Teodoro Martinelli Silva",
+        "period": 2,
+        "timestamp": "01:11:11.830",
+        "type": "Shot",
+        "outcome": "Goal"
+      },
+      {
+        "player_id": 31506,
+        "player_name": "Chukwunonso Madueke",
+        "period": 2,
+        "timestamp": "01:23:55.791",
+        "type": "Bad Behaviour",
+        "outcome": "Yellow Card"
+      },
+      {
+        "player_id": 29976,
+        "player_name": "Gabriel Teodoro Martinelli Silva",
+        "period": 2,
+        "timestamp": "01:26:22.578",
+        "type": "Ground Pass",
+        "outcome": "Assist"
+      },
+      {
+        "player_id": 16559,
+        "player_name": "Leandro Trossard",
+        "period": 2,
+        "timestamp": "01:26:24.679",
+        "type": "Shot",
+        "outcome": "Goal"
+      },
+      {
+        "player_id": 24921,
+        "player_name": "Martín Zubimendi Ibáñez",
+        "period": 2,
+        "timestamp": "01:30:34.167",
+        "type": "Bad Behaviour",
+        "outcome": "Yellow Card"
+      },
+      {
+        "period": 2,
+        "timestamp": "01:36:12.518",
+        "type": "Half End"
+      }
+    ]
+  },
+  {
+    "team_id": 215,
+    "team_name": "Athletic Club",
+    "lineup": [
+      {
+        "player_id": 3023,
+        "player_name": "Yuri Berchiche Izeta",
+        "player_nickname": "Yuri Berchiche",
+        "birth_date": "1990-02-10",
+        "player_gender": "male",
+        "player_height": 181.0,
+        "player_weight": 79.0,
+        "jersey_number": 17,
+        "positions": [
+          {
+            "position_id": 6,
+            "position": "Left Back",
+            "from": "01:07:24.891",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Substitution - On (Tactical)",
+            "end_reason": "Final Whistle",
+            "counterpart_id": 324613,
+            "counterpart_name": "Adama Boiro Boiro"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 214,
+          "name": "Spain"
+        }
+      },
+      {
+        "player_id": 6392,
+        "player_name": "Íñigo Lekue Martínez",
+        "player_nickname": "Iñigo Lekue",
+        "birth_date": "1993-05-04",
+        "player_gender": "male",
+        "player_height": 180.0,
+        "player_weight": 70.0,
+        "jersey_number": 15,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 214,
+          "name": "Spain"
+        }
+      },
+      {
+        "player_id": 6393,
+        "player_name": "Iñaki Williams Arthuer",
+        "player_nickname": "Iñaki Williams",
+        "birth_date": "1994-06-15",
+        "player_gender": "male",
+        "player_height": 186.0,
+        "player_weight": 81.0,
+        "jersey_number": 9,
+        "positions": [
+          {
+            "position_id": 23,
+            "position": "Center Forward",
+            "from": "00:00:00.000",
+            "to": "01:08:28.113",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Starting XI",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 17,
+            "position": "Right Wing",
+            "from": "01:08:28.113",
+            "to": "01:21:26.660",
+            "from_period": 2,
+            "to_period": 2,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 23,
+            "position": "Center Forward",
+            "from": "01:21:26.660",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 86,
+          "name": "Ghana"
+        }
+      },
+      {
+        "player_id": 6667,
+        "player_name": "Mikel Vesga Arruti",
+        "player_nickname": "Mikel Vesga",
+        "birth_date": "1993-04-08",
+        "player_gender": "male",
+        "player_height": 191.0,
+        "player_weight": 83.0,
+        "jersey_number": 6,
+        "positions": [
+          {
+            "position_id": 11,
+            "position": "Left Defensive Midfield",
+            "from": "00:00:00.000",
+            "to": "01:20:18.489",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Starting XI",
+            "end_reason": "Substitution - Off (Tactical)",
+            "counterpart_id": 315468,
+            "counterpart_name": "Alejandro Rego Mora"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 214,
+          "name": "Spain"
+        }
+      },
+      {
+        "player_id": 6670,
+        "player_name": "Andoni Gorosabel Espinosa",
+        "player_nickname": "Andoni Gorosabel",
+        "birth_date": "1996-08-04",
+        "player_gender": "male",
+        "player_height": 174.0,
+        "player_weight": 70.0,
+        "jersey_number": 2,
+        "positions": [
+          {
+            "position_id": 2,
+            "position": "Right Back",
+            "from": "00:00:00.000",
+            "to": null,
+            "from_period": 1,
+            "to_period": null,
+            "start_reason": "Starting XI",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 214,
+          "name": "Spain"
+        }
+      },
+      {
+        "player_id": 7478,
+        "player_name": "Alejandro Berenguer Remiro",
+        "player_nickname": "Álex Berenguer",
+        "birth_date": "1995-07-04",
+        "player_gender": "male",
+        "player_height": 175.0,
+        "player_weight": 73.0,
+        "jersey_number": 7,
+        "positions": [
+          {
+            "position_id": 17,
+            "position": "Right Wing",
+            "from": "00:00:00.000",
+            "to": "00:21:31.556",
+            "from_period": 1,
+            "to_period": 1,
+            "start_reason": "Starting XI",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 21,
+            "position": "Left Wing",
+            "from": "00:21:31.556",
+            "to": "01:00:22.316",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 17,
+            "position": "Right Wing",
+            "from": "01:00:22.316",
+            "to": "01:08:28.113",
+            "from_period": 2,
+            "to_period": 2,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 21,
+            "position": "Left Wing",
+            "from": "01:08:28.113",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 214,
+          "name": "Spain"
+        }
+      },
+      {
+        "player_id": 11748,
+        "player_name": "Unai Simón Mendibil",
+        "player_nickname": "Unai Simón",
+        "birth_date": "1997-06-11",
+        "player_gender": "male",
+        "player_height": 190.0,
+        "player_weight": 88.0,
+        "jersey_number": 1,
+        "positions": [
+          {
+            "position_id": 1,
+            "position": "Goalkeeper",
+            "from": "00:00:00.000",
+            "to": null,
+            "from_period": 1,
+            "to_period": null,
+            "start_reason": "Starting XI",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 214,
+          "name": "Spain"
+        }
+      },
+      {
+        "player_id": 12553,
+        "player_name": "Gorka Guruzeta Rodríguez",
+        "player_nickname": "Gorka Guruzeta",
+        "birth_date": "1996-09-12",
+        "player_gender": "male",
+        "player_height": 188.0,
+        "player_weight": 77.0,
+        "jersey_number": 11,
+        "positions": [
+          {
+            "position_id": 19,
+            "position": "Center Attacking Midfield",
+            "from": "01:07:37.752",
+            "to": "01:08:28.113",
+            "from_period": 2,
+            "to_period": 2,
+            "start_reason": "Substitution - On (Tactical)",
+            "end_reason": "Tactical Shift",
+            "counterpart_id": 30225,
+            "counterpart_name": "Oihan Sancet Tirapu"
+          },
+          {
+            "position_id": 23,
+            "position": "Center Forward",
+            "from": "01:08:28.113",
+            "to": "01:21:26.660",
+            "from_period": 2,
+            "to_period": 2,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 19,
+            "position": "Center Attacking Midfield",
+            "from": "01:21:26.660",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 214,
+          "name": "Spain"
+        }
+      },
+      {
+        "player_id": 23824,
+        "player_name": "Iñigo Ruiz de Galarreta Etxeberria",
+        "player_nickname": "Ruiz de Galarreta",
+        "birth_date": "1993-08-06",
+        "player_gender": "male",
+        "player_height": 175.0,
+        "player_weight": 69.0,
+        "jersey_number": 16,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 214,
+          "name": "Spain"
+        }
+      },
+      {
+        "player_id": 30225,
+        "player_name": "Oihan Sancet Tirapu",
+        "player_nickname": "Oihan Sancet",
+        "birth_date": "2000-04-25",
+        "player_gender": "male",
+        "player_height": 188.0,
+        "player_weight": 73.0,
+        "jersey_number": 8,
+        "positions": [
+          {
+            "position_id": 19,
+            "position": "Center Attacking Midfield",
+            "from": "00:00:00.000",
+            "to": "01:07:37.752",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Starting XI",
+            "end_reason": "Substitution - Off (Tactical)",
+            "counterpart_id": 12553,
+            "counterpart_name": "Gorka Guruzeta Rodríguez"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 214,
+          "name": "Spain"
+        }
+      },
+      {
+        "player_id": 41542,
+        "player_name": "Daniel Vivian Moreno",
+        "player_nickname": "Dani Vivian",
+        "birth_date": "1999-07-05",
+        "player_gender": "male",
+        "player_height": 184.0,
+        "player_weight": 78.0,
+        "jersey_number": 3,
+        "positions": [
+          {
+            "position_id": 3,
+            "position": "Right Center Back",
+            "from": "00:00:00.000",
+            "to": null,
+            "from_period": 1,
+            "to_period": null,
+            "start_reason": "Starting XI",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 214,
+          "name": "Spain"
+        }
+      },
+      {
+        "player_id": 47375,
+        "player_name": "Robert Navarro Muñoz",
+        "player_nickname": "Robert Navarro",
+        "birth_date": "2002-04-12",
+        "player_gender": "male",
+        "player_height": 178.0,
+        "player_weight": 69.0,
+        "jersey_number": 23,
+        "positions": [
+          {
+            "position_id": 21,
+            "position": "Left Wing",
+            "from": "00:00:00.000",
+            "to": "00:21:31.556",
+            "from_period": 1,
+            "to_period": 1,
+            "start_reason": "Starting XI",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 17,
+            "position": "Right Wing",
+            "from": "00:21:31.556",
+            "to": "01:00:06.320",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Substitution - Off (Tactical)",
+            "counterpart_id": 315471,
+            "counterpart_name": "Unai Gómez Etxebarria"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 214,
+          "name": "Spain"
+        }
+      },
+      {
+        "player_id": 49529,
+        "player_name": "Aitor Paredes Casamichana",
+        "player_nickname": "Aitor Paredes",
+        "birth_date": "2000-04-29",
+        "player_gender": "male",
+        "player_height": 186.0,
+        "player_weight": 76.0,
+        "jersey_number": 4,
+        "positions": [
+          {
+            "position_id": 5,
+            "position": "Left Center Back",
+            "from": "00:00:00.000",
+            "to": null,
+            "from_period": 1,
+            "to_period": null,
+            "start_reason": "Starting XI",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 214,
+          "name": "Spain"
+        }
+      },
+      {
+        "player_id": 132414,
+        "player_name": "Nicolás Serrano Galdeano",
+        "player_nickname": "Nico Serrano",
+        "birth_date": "2003-03-05",
+        "player_gender": "male",
+        "player_height": 178.0,
+        "player_weight": 72.0,
+        "jersey_number": 22,
+        "positions": [
+          {
+            "position_id": 19,
+            "position": "Center Attacking Midfield",
+            "from": "01:20:17.440",
+            "to": "01:21:26.660",
+            "from_period": 2,
+            "to_period": 2,
+            "start_reason": "Substitution - On (Injury)",
+            "end_reason": "Tactical Shift",
+            "counterpart_id": 315471,
+            "counterpart_name": "Unai Gómez Etxebarria"
+          },
+          {
+            "position_id": 17,
+            "position": "Right Wing",
+            "from": "01:21:26.660",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 214,
+          "name": "Spain"
+        }
+      },
+      {
+        "player_id": 132545,
+        "player_name": "Jesús Areso Blanco",
+        "player_nickname": "Jesús Areso",
+        "birth_date": "1999-07-02",
+        "player_gender": "male",
+        "player_height": 182.0,
+        "player_weight": 81.0,
+        "jersey_number": 12,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 214,
+          "name": "Spain"
+        }
+      },
+      {
+        "player_id": 315468,
+        "player_name": "Alejandro Rego Mora",
+        "player_nickname": "Alejandro Rego",
+        "birth_date": "2003-06-11",
+        "player_gender": "male",
+        "player_height": 192.0,
+        "player_weight": null,
+        "jersey_number": 30,
+        "positions": [
+          {
+            "position_id": 11,
+            "position": "Left Defensive Midfield",
+            "from": "01:20:18.489",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Substitution - On (Tactical)",
+            "end_reason": "Final Whistle",
+            "counterpart_id": 6667,
+            "counterpart_name": "Mikel Vesga Arruti"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 214,
+          "name": "Spain"
+        }
+      },
+      {
+        "player_id": 315471,
+        "player_name": "Unai Gómez Etxebarria",
+        "player_nickname": null,
+        "birth_date": "2003-05-25",
+        "player_gender": "male",
+        "player_height": 183.0,
+        "player_weight": null,
+        "jersey_number": 20,
+        "positions": [
+          {
+            "position_id": 17,
+            "position": "Right Wing",
+            "from": "01:00:06.320",
+            "to": "01:00:22.316",
+            "from_period": 2,
+            "to_period": 2,
+            "start_reason": "Substitution - On (Tactical)",
+            "end_reason": "Tactical Shift",
+            "counterpart_id": 47375,
+            "counterpart_name": "Robert Navarro Muñoz"
+          },
+          {
+            "position_id": 21,
+            "position": "Left Wing",
+            "from": "01:00:22.316",
+            "to": "01:08:28.113",
+            "from_period": 2,
+            "to_period": 2,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 19,
+            "position": "Center Attacking Midfield",
+            "from": "01:08:28.113",
+            "to": "01:17:54.541",
+            "from_period": 2,
+            "to_period": 2,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Player Off"
+          },
+          {
+            "position_id": 19,
+            "position": "Center Attacking Midfield",
+            "from": "01:20:13.157",
+            "to": "01:20:17.440",
+            "from_period": 2,
+            "to_period": 2,
+            "start_reason": "Player On",
+            "end_reason": "Substitution - Off (Injury)",
+            "counterpart_id": 132414,
+            "counterpart_name": "Nicolás Serrano Galdeano"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 214,
+          "name": "Spain"
+        }
+      },
+      {
+        "player_id": 315482,
+        "player_name": "Alejandro Padilla Pérez",
+        "player_nickname": "Alex Padilla",
+        "birth_date": "2003-09-01",
+        "player_gender": "male",
+        "player_height": 190.0,
+        "player_weight": 83.0,
+        "jersey_number": 27,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 147,
+          "name": "Mexico"
+        }
+      },
+      {
+        "player_id": 324613,
+        "player_name": "Adama Boiro Boiro",
+        "player_nickname": null,
+        "birth_date": "2002-06-22",
+        "player_gender": "male",
+        "player_height": 183.0,
+        "player_weight": 75.0,
+        "jersey_number": 19,
+        "positions": [
+          {
+            "position_id": 6,
+            "position": "Left Back",
+            "from": "00:00:00.000",
+            "to": "01:07:24.891",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Starting XI",
+            "end_reason": "Substitution - Off (Tactical)",
+            "counterpart_id": 3023,
+            "counterpart_name": "Yuri Berchiche Izeta"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 214,
+          "name": "Spain"
+        }
+      },
+      {
+        "player_id": 354940,
+        "player_name": "Jon de Luis Suescun",
+        "player_nickname": null,
+        "birth_date": "2003-05-05",
+        "player_gender": "male",
+        "player_height": 186.0,
+        "player_weight": null,
+        "jersey_number": 34,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 214,
+          "name": "Spain"
+        }
+      },
+      {
+        "player_id": 397198,
+        "player_name": "Mikel Jauregizar Alboniga",
+        "player_nickname": "Mikel Jauregizar",
+        "birth_date": "2003-11-13",
+        "player_gender": "male",
+        "player_height": 177.0,
+        "player_weight": 74.0,
+        "jersey_number": 18,
+        "positions": [
+          {
+            "position_id": 9,
+            "position": "Right Defensive Midfield",
+            "from": "00:00:00.000",
+            "to": null,
+            "from_period": 1,
+            "to_period": null,
+            "start_reason": "Starting XI",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 214,
+          "name": "Spain"
+        }
+      },
+      {
+        "player_id": 441425,
+        "player_name": "Mikel Santos Linares",
+        "player_nickname": "M.Santos Linares",
+        "birth_date": "2004-11-01",
+        "player_gender": "male",
+        "player_height": null,
+        "player_weight": null,
+        "jersey_number": 26,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 214,
+          "name": "Spain"
+        }
+      },
+      {
+        "player_id": 441597,
+        "player_name": "Maroan Sannadi Harrouch",
+        "player_nickname": null,
+        "birth_date": "2001-02-01",
+        "player_gender": "male",
+        "player_height": 192.0,
+        "player_weight": 85.0,
+        "jersey_number": 21,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 214,
+          "name": "Spain"
+        }
+      }
+    ],
+    "formations": [
+      {
+        "period": 1,
+        "timestamp": "00:00:00.000",
+        "reason": "Starting XI",
+        "formation": 4231
+      }
+    ],
+    "events": [
+      {
+        "period": 1,
+        "timestamp": "00:00:00.000",
+        "type": "Half Start"
+      },
+      {
+        "period": 1,
+        "timestamp": "00:48:41.672",
+        "type": "Half End"
+      },
+      {
+        "period": 2,
+        "timestamp": "00:45:00.000",
+        "type": "Half Start"
+      },
+      {
+        "player_id": 397198,
+        "player_name": "Mikel Jauregizar Alboniga",
+        "period": 2,
+        "timestamp": "01:24:47.625",
+        "type": "Bad Behaviour",
+        "outcome": "Yellow Card"
+      },
+      {
+        "period": 2,
+        "timestamp": "01:36:12.518",
+        "type": "Half End"
+      }
+    ]
+  }
+]

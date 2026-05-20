@@ -1,0 +1,1630 @@
+[
+  {
+    "team_id": 961,
+    "team_name": "Olympiacos",
+    "lineup": [
+      {
+        "player_id": 5226,
+        "player_name": "Mehdi Taremi",
+        "player_nickname": null,
+        "birth_date": "1992-07-18",
+        "player_gender": "male",
+        "player_height": 187.0,
+        "player_weight": 80.0,
+        "jersey_number": 99,
+        "positions": [
+          {
+            "position_id": 19,
+            "position": "Center Attacking Midfield",
+            "from": "00:45:00.000",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Substitution - On (Tactical)",
+            "end_reason": "Final Whistle",
+            "counterpart_id": 31701,
+            "counterpart_name": "Gabriel Tadeu Strefezza Rebelato"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 107,
+          "name": "Iran"
+        }
+      },
+      {
+        "player_id": 5229,
+        "player_name": "Ayoub El Kaabi",
+        "player_nickname": null,
+        "birth_date": "1993-06-25",
+        "player_gender": "male",
+        "player_height": 182.0,
+        "player_weight": 72.0,
+        "jersey_number": 9,
+        "positions": [
+          {
+            "position_id": 23,
+            "position": "Center Forward",
+            "from": "00:00:00.000",
+            "to": null,
+            "from_period": 1,
+            "to_period": null,
+            "start_reason": "Starting XI",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 154,
+          "name": "Morocco"
+        }
+      },
+      {
+        "player_id": 6775,
+        "player_name": "Daniel García Carrillo",
+        "player_nickname": "Dani García",
+        "birth_date": "1990-05-24",
+        "player_gender": "male",
+        "player_height": 180.0,
+        "player_weight": 81.0,
+        "jersey_number": 14,
+        "positions": [
+          {
+            "position_id": 11,
+            "position": "Left Defensive Midfield",
+            "from": "00:00:00.000",
+            "to": "00:45:00.000",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Starting XI",
+            "end_reason": "Substitution - Off (Tactical)",
+            "counterpart_id": 425405,
+            "counterpart_name": "Christos Mouzakitis"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 214,
+          "name": "Spain"
+        }
+      },
+      {
+        "player_id": 8968,
+        "player_name": "Panagiotis Retsos",
+        "player_nickname": null,
+        "birth_date": "1998-08-09",
+        "player_gender": "male",
+        "player_height": 186.0,
+        "player_weight": 79.0,
+        "jersey_number": 45,
+        "positions": [
+          {
+            "position_id": 3,
+            "position": "Right Center Back",
+            "from": "00:00:00.000",
+            "to": null,
+            "from_period": 1,
+            "to_period": null,
+            "start_reason": "Starting XI",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 88,
+          "name": "Greece"
+        }
+      },
+      {
+        "player_id": 10597,
+        "player_name": "Francisco Leonel Lima Silva Machado",
+        "player_nickname": "Chiquinho",
+        "birth_date": "1995-07-19",
+        "player_gender": "male",
+        "player_height": 175.0,
+        "player_weight": 68.0,
+        "jersey_number": 22,
+        "positions": [
+          {
+            "position_id": 19,
+            "position": "Center Attacking Midfield",
+            "from": "00:00:00.000",
+            "to": "00:45:00.000",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Starting XI",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 17,
+            "position": "Right Wing",
+            "from": "00:45:00.000",
+            "to": "01:15:01.827",
+            "from_period": 2,
+            "to_period": 2,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 9,
+            "position": "Right Defensive Midfield",
+            "from": "01:15:01.827",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 183,
+          "name": "Portugal"
+        }
+      },
+      {
+        "player_id": 15328,
+        "player_name": "Daniel Castelo Podence",
+        "player_nickname": "Daniel Podence",
+        "birth_date": "1995-10-21",
+        "player_gender": "male",
+        "player_height": 165.0,
+        "player_weight": 58.0,
+        "jersey_number": 56,
+        "positions": [
+          {
+            "position_id": 21,
+            "position": "Left Wing",
+            "from": "00:00:00.000",
+            "to": "01:15:01.827",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Starting XI",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 17,
+            "position": "Right Wing",
+            "from": "01:15:01.827",
+            "to": "01:28:50.311",
+            "from_period": 2,
+            "to_period": 2,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 21,
+            "position": "Left Wing",
+            "from": "01:28:50.311",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 183,
+          "name": "Portugal"
+        }
+      },
+      {
+        "player_id": 16492,
+        "player_name": "Alexandros Paschalakis",
+        "player_nickname": null,
+        "birth_date": "1989-07-28",
+        "player_gender": "male",
+        "player_height": 197.0,
+        "player_weight": 92.0,
+        "jersey_number": 1,
+        "positions": [
+          {
+            "position_id": 1,
+            "position": "Goalkeeper",
+            "from": "00:00:00.000",
+            "to": null,
+            "from_period": 1,
+            "to_period": null,
+            "start_reason": "Starting XI",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 88,
+          "name": "Greece"
+        }
+      },
+      {
+        "player_id": 22073,
+        "player_name": "Giulian Biancone",
+        "player_nickname": null,
+        "birth_date": "2000-03-31",
+        "player_gender": "male",
+        "player_height": 187.0,
+        "player_weight": null,
+        "jersey_number": 4,
+        "positions": [
+          {
+            "position_id": 5,
+            "position": "Left Center Back",
+            "from": "01:15:00.627",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Substitution - On (Tactical)",
+            "end_reason": "Final Whistle",
+            "counterpart_id": 38315,
+            "counterpart_name": "Lorenzo Pirola"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 78,
+          "name": "France"
+        }
+      },
+      {
+        "player_id": 25139,
+        "player_name": "Rodinei Marcelo de Almeida",
+        "player_nickname": "Rodinei",
+        "birth_date": "1992-01-29",
+        "player_gender": "male",
+        "player_height": 176.0,
+        "player_weight": 78.0,
+        "jersey_number": 23,
+        "positions": [
+          {
+            "position_id": 2,
+            "position": "Right Back",
+            "from": "00:00:00.000",
+            "to": "01:00:18.363",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Starting XI",
+            "end_reason": "Substitution - Off (Tactical)",
+            "counterpart_id": 42038,
+            "counterpart_name": "João Pedro Loureiro da Costa"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 31,
+          "name": "Brazil"
+        }
+      },
+      {
+        "player_id": 30399,
+        "player_name": "Francisco Gabriel Ortega",
+        "player_nickname": "Francisco Ortega",
+        "birth_date": "1999-03-19",
+        "player_gender": "male",
+        "player_height": 178.0,
+        "player_weight": 75.0,
+        "jersey_number": 3,
+        "positions": [
+          {
+            "position_id": 6,
+            "position": "Left Back",
+            "from": "00:00:00.000",
+            "to": null,
+            "from_period": 1,
+            "to_period": null,
+            "start_reason": "Starting XI",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 11,
+          "name": "Argentina"
+        }
+      },
+      {
+        "player_id": 31701,
+        "player_name": "Gabriel Tadeu Strefezza Rebelato",
+        "player_nickname": "Gabriel Strefezza",
+        "birth_date": "1997-04-18",
+        "player_gender": "male",
+        "player_height": 168.0,
+        "player_weight": 63.0,
+        "jersey_number": 27,
+        "positions": [
+          {
+            "position_id": 17,
+            "position": "Right Wing",
+            "from": "00:00:00.000",
+            "to": "00:45:00.000",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Starting XI",
+            "end_reason": "Substitution - Off (Tactical)",
+            "counterpart_id": 5226,
+            "counterpart_name": "Mehdi Taremi"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 31,
+          "name": "Brazil"
+        }
+      },
+      {
+        "player_id": 35480,
+        "player_name": "Santiago Hezze",
+        "player_nickname": null,
+        "birth_date": "2001-10-22",
+        "player_gender": "male",
+        "player_height": 182.0,
+        "player_weight": 72.0,
+        "jersey_number": 32,
+        "positions": [
+          {
+            "position_id": 9,
+            "position": "Right Defensive Midfield",
+            "from": "00:00:00.000",
+            "to": "01:14:53.148",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Starting XI",
+            "end_reason": "Substitution - Off (Tactical)",
+            "counterpart_id": 425400,
+            "counterpart_name": "Stavros Pnevmonidis"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 11,
+          "name": "Argentina"
+        }
+      },
+      {
+        "player_id": 38315,
+        "player_name": "Lorenzo Pirola",
+        "player_nickname": null,
+        "birth_date": "2002-02-20",
+        "player_gender": "male",
+        "player_height": 185.0,
+        "player_weight": 75.0,
+        "jersey_number": 5,
+        "positions": [
+          {
+            "position_id": 5,
+            "position": "Left Center Back",
+            "from": "00:00:00.000",
+            "to": "01:15:00.627",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Starting XI",
+            "end_reason": "Substitution - Off (Tactical)",
+            "counterpart_id": 22073,
+            "counterpart_name": "Giulian Biancone"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 112,
+          "name": "Italy"
+        }
+      },
+      {
+        "player_id": 38735,
+        "player_name": "Diogo Andre Santos Nascimento",
+        "player_nickname": "Diogo Nascimento",
+        "birth_date": "2002-11-02",
+        "player_gender": "male",
+        "player_height": 166.0,
+        "player_weight": null,
+        "jersey_number": 8,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 183,
+          "name": "Portugal"
+        }
+      },
+      {
+        "player_id": 42038,
+        "player_name": "João Pedro Loureiro da Costa",
+        "player_nickname": "Costinha",
+        "birth_date": "2000-03-26",
+        "player_gender": "male",
+        "player_height": 181.0,
+        "player_weight": null,
+        "jersey_number": 20,
+        "positions": [
+          {
+            "position_id": 2,
+            "position": "Right Back",
+            "from": "01:00:18.363",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Substitution - On (Tactical)",
+            "end_reason": "Final Whistle",
+            "counterpart_id": 25139,
+            "counterpart_name": "Rodinei Marcelo de Almeida"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 183,
+          "name": "Portugal"
+        }
+      },
+      {
+        "player_id": 121644,
+        "player_name": "Alexios Kalogeropoulos",
+        "player_nickname": null,
+        "birth_date": "2004-07-26",
+        "player_gender": "male",
+        "player_height": 187.0,
+        "player_weight": 79.0,
+        "jersey_number": 6,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 88,
+          "name": "Greece"
+        }
+      },
+      {
+        "player_id": 133780,
+        "player_name": "Sopuruchukwu Bruno Onyemaechi",
+        "player_nickname": null,
+        "birth_date": "1999-04-03",
+        "player_gender": "male",
+        "player_height": 178.0,
+        "player_weight": 82.0,
+        "jersey_number": 70,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 166,
+          "name": "Nigeria"
+        }
+      },
+      {
+        "player_id": 237830,
+        "player_name": "Lorenzo Scipioni",
+        "player_nickname": null,
+        "birth_date": "2004-11-24",
+        "player_gender": "male",
+        "player_height": 181.0,
+        "player_weight": 82.0,
+        "jersey_number": 16,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 11,
+          "name": "Argentina"
+        }
+      },
+      {
+        "player_id": 425400,
+        "player_name": "Stavros Pnevmonidis",
+        "player_nickname": null,
+        "birth_date": "2006-08-07",
+        "player_gender": "male",
+        "player_height": null,
+        "player_weight": null,
+        "jersey_number": 80,
+        "positions": [
+          {
+            "position_id": 9,
+            "position": "Right Defensive Midfield",
+            "from": "01:14:53.148",
+            "to": "01:15:01.827",
+            "from_period": 2,
+            "to_period": 2,
+            "start_reason": "Substitution - On (Tactical)",
+            "end_reason": "Tactical Shift",
+            "counterpart_id": 35480,
+            "counterpart_name": "Santiago Hezze"
+          },
+          {
+            "position_id": 21,
+            "position": "Left Wing",
+            "from": "01:15:01.827",
+            "to": "01:28:50.311",
+            "from_period": 2,
+            "to_period": 2,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 17,
+            "position": "Right Wing",
+            "from": "01:28:50.311",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 88,
+          "name": "Greece"
+        }
+      },
+      {
+        "player_id": 425404,
+        "player_name": "Alexandros Exarchos",
+        "player_nickname": null,
+        "birth_date": "2005-06-02",
+        "player_gender": "male",
+        "player_height": 193.0,
+        "player_weight": null,
+        "jersey_number": 91,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 88,
+          "name": "Greece"
+        }
+      },
+      {
+        "player_id": 425405,
+        "player_name": "Christos Mouzakitis",
+        "player_nickname": null,
+        "birth_date": "2006-12-25",
+        "player_gender": "male",
+        "player_height": 178.0,
+        "player_weight": null,
+        "jersey_number": 96,
+        "positions": [
+          {
+            "position_id": 11,
+            "position": "Left Defensive Midfield",
+            "from": "00:45:00.000",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Substitution - On (Tactical)",
+            "end_reason": "Final Whistle",
+            "counterpart_id": 6775,
+            "counterpart_name": "Daniel García Carrillo"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 88,
+          "name": "Greece"
+        }
+      },
+      {
+        "player_id": 447994,
+        "player_name": "Georgios Kouraklis",
+        "player_nickname": null,
+        "birth_date": "2006-03-18",
+        "player_gender": "male",
+        "player_height": null,
+        "player_weight": null,
+        "jersey_number": 61,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 88,
+          "name": "Greece"
+        }
+      }
+    ],
+    "formations": [
+      {
+        "period": 1,
+        "timestamp": "00:00:00.000",
+        "reason": "Starting XI",
+        "formation": 4231
+      }
+    ],
+    "events": [
+      {
+        "period": 1,
+        "timestamp": "00:00:00.000",
+        "type": "Half Start"
+      },
+      {
+        "player_id": 6775,
+        "player_name": "Daniel García Carrillo",
+        "period": 1,
+        "timestamp": "00:19:29.647",
+        "type": "Foul Committed",
+        "outcome": "Yellow Card"
+      },
+      {
+        "player_id": 38315,
+        "player_name": "Lorenzo Pirola",
+        "period": 1,
+        "timestamp": "00:34:57.604",
+        "type": "Foul Committed",
+        "outcome": "Yellow Card"
+      },
+      {
+        "period": 1,
+        "timestamp": "00:49:05.858",
+        "type": "Half End"
+      },
+      {
+        "period": 2,
+        "timestamp": "00:45:00.000",
+        "type": "Half Start"
+      },
+      {
+        "player_id": 5226,
+        "player_name": "Mehdi Taremi",
+        "period": 2,
+        "timestamp": "01:08:30.163",
+        "type": "Foul Committed",
+        "outcome": "Yellow Card"
+      },
+      {
+        "period": 2,
+        "timestamp": "01:36:06.352",
+        "type": "Half End"
+      }
+    ]
+  },
+  {
+    "team_id": 2373,
+    "team_name": "Pafos",
+    "lineup": [
+      {
+        "player_id": 3956,
+        "player_name": "David Luiz Moreira Marinho",
+        "player_nickname": "David Luiz",
+        "birth_date": "1987-04-22",
+        "player_gender": "male",
+        "player_height": 189.0,
+        "player_weight": 84.0,
+        "jersey_number": 4,
+        "positions": [
+          {
+            "position_id": 5,
+            "position": "Left Center Back",
+            "from": "00:00:00.000",
+            "to": "00:24:11.246",
+            "from_period": 1,
+            "to_period": 1,
+            "start_reason": "Starting XI",
+            "end_reason": "Player Off (Off Camera)"
+          },
+          {
+            "position_id": 5,
+            "position": "Left Center Back",
+            "from": "00:26:15.156",
+            "to": "00:32:33.818",
+            "from_period": 1,
+            "to_period": 1,
+            "start_reason": "Player On",
+            "end_reason": "Substitution - Off (Injury)",
+            "counterpart_id": 398885,
+            "counterpart_name": "Kostas Pileas"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 31,
+          "name": "Brazil"
+        }
+      },
+      {
+        "player_id": 8242,
+        "player_name": "Landry Nany Dimata",
+        "player_nickname": "Landry Dimata",
+        "birth_date": "1997-09-01",
+        "player_gender": "male",
+        "player_height": 185.0,
+        "player_weight": 81.0,
+        "jersey_number": 10,
+        "positions": [
+          {
+            "position_id": 23,
+            "position": "Center Forward",
+            "from": "00:00:00.000",
+            "to": "00:32:34.103",
+            "from_period": 1,
+            "to_period": 1,
+            "start_reason": "Starting XI",
+            "end_reason": "Substitution - Off (Tactical)",
+            "counterpart_id": 16527,
+            "counterpart_name": "Mislav Oršić"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 22,
+          "name": "Belgium"
+        }
+      },
+      {
+        "player_id": 8253,
+        "player_name": "Derrick Luckassen",
+        "player_nickname": null,
+        "birth_date": "1995-07-03",
+        "player_gender": "male",
+        "player_height": 188.0,
+        "player_weight": 78.0,
+        "jersey_number": 23,
+        "positions": [
+          {
+            "position_id": 3,
+            "position": "Right Center Back",
+            "from": "00:00:00.000",
+            "to": "00:26:18.845",
+            "from_period": 1,
+            "to_period": 1,
+            "start_reason": "Starting XI",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 2,
+            "position": "Right Back",
+            "from": "00:26:18.845",
+            "to": "00:32:40.935",
+            "from_period": 1,
+            "to_period": 1,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 3,
+            "position": "Right Center Back",
+            "from": "00:32:40.935",
+            "to": null,
+            "from_period": 1,
+            "to_period": null,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 160,
+          "name": "Netherlands"
+        }
+      },
+      {
+        "player_id": 10312,
+        "player_name": "Ken Sema",
+        "player_nickname": null,
+        "birth_date": "1993-09-30",
+        "player_gender": "male",
+        "player_height": 180.0,
+        "player_weight": 69.0,
+        "jersey_number": 12,
+        "positions": [
+          {
+            "position_id": 12,
+            "position": "Right Midfield",
+            "from": "01:16:23.654",
+            "to": "01:17:12.858",
+            "from_period": 2,
+            "to_period": 2,
+            "start_reason": "Substitution - On (Tactical)",
+            "end_reason": "Tactical Shift",
+            "counterpart_id": 38724,
+            "counterpart_name": "Jair Diego Alves de Brito"
+          },
+          {
+            "position_id": 16,
+            "position": "Left Midfield",
+            "from": "01:17:12.858",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 220,
+          "name": "Sweden"
+        }
+      },
+      {
+        "player_id": 13617,
+        "player_name": "Pedro Filipe Figueiredo Rodrigues",
+        "player_nickname": "Pêpê Rodrigues",
+        "birth_date": "1997-05-20",
+        "player_gender": "male",
+        "player_height": 183.0,
+        "player_weight": 75.0,
+        "jersey_number": 88,
+        "positions": [
+          {
+            "position_id": 15,
+            "position": "Left Center Midfield",
+            "from": "00:00:00.000",
+            "to": "00:26:18.845",
+            "from_period": 1,
+            "to_period": 1,
+            "start_reason": "Starting XI",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 11,
+            "position": "Left Defensive Midfield",
+            "from": "00:26:18.845",
+            "to": "00:53:32.538",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 9,
+            "position": "Right Defensive Midfield",
+            "from": "00:53:32.538",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 183,
+          "name": "Portugal"
+        }
+      },
+      {
+        "player_id": 16526,
+        "player_name": "Ivan Šunjić",
+        "player_nickname": null,
+        "birth_date": "1996-10-09",
+        "player_gender": "male",
+        "player_height": 184.0,
+        "player_weight": 75.0,
+        "jersey_number": 26,
+        "positions": [
+          {
+            "position_id": 13,
+            "position": "Right Center Midfield",
+            "from": "00:00:00.000",
+            "to": "00:26:18.845",
+            "from_period": 1,
+            "to_period": 1,
+            "start_reason": "Starting XI",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 9,
+            "position": "Right Defensive Midfield",
+            "from": "00:26:18.845",
+            "to": "00:53:32.538",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 11,
+            "position": "Left Defensive Midfield",
+            "from": "00:53:32.538",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 56,
+          "name": "Croatia"
+        }
+      },
+      {
+        "player_id": 16527,
+        "player_name": "Mislav Oršić",
+        "player_nickname": null,
+        "birth_date": "1992-12-29",
+        "player_gender": "male",
+        "player_height": 179.0,
+        "player_weight": 69.0,
+        "jersey_number": 17,
+        "positions": [
+          {
+            "position_id": 23,
+            "position": "Center Forward",
+            "from": "00:32:34.103",
+            "to": "00:32:40.935",
+            "from_period": 1,
+            "to_period": 1,
+            "start_reason": "Substitution - On (Tactical)",
+            "end_reason": "Tactical Shift",
+            "counterpart_id": 8242,
+            "counterpart_name": "Landry Nany Dimata"
+          },
+          {
+            "position_id": 16,
+            "position": "Left Midfield",
+            "from": "00:32:40.935",
+            "to": "01:17:12.858",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 12,
+            "position": "Right Midfield",
+            "from": "01:17:12.858",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 56,
+          "name": "Croatia"
+        }
+      },
+      {
+        "player_id": 22140,
+        "player_name": "Domingos Quina",
+        "player_nickname": null,
+        "birth_date": "1999-11-18",
+        "player_gender": "male",
+        "player_height": 173.0,
+        "player_weight": 72.0,
+        "jersey_number": 8,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 183,
+          "name": "Portugal"
+        }
+      },
+      {
+        "player_id": 30080,
+        "player_name": "Anderson Oliveira Silva",
+        "player_nickname": "Anderson Silva",
+        "birth_date": "1997-11-21",
+        "player_gender": "male",
+        "player_height": 186.0,
+        "player_weight": 80.0,
+        "jersey_number": 33,
+        "positions": [
+          {
+            "position_id": 23,
+            "position": "Center Forward",
+            "from": "01:25:12.973",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Substitution - On (Tactical)",
+            "end_reason": "Final Whistle",
+            "counterpart_id": 31229,
+            "counterpart_name": "Vlad Mihai Dragomir"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 31,
+          "name": "Brazil"
+        }
+      },
+      {
+        "player_id": 31229,
+        "player_name": "Vlad Mihai Dragomir",
+        "player_nickname": "Vlad Dragomir",
+        "birth_date": "1999-04-24",
+        "player_gender": "male",
+        "player_height": 178.0,
+        "player_weight": 75.0,
+        "jersey_number": 30,
+        "positions": [
+          {
+            "position_id": 16,
+            "position": "Left Midfield",
+            "from": "00:00:00.000",
+            "to": "00:32:40.935",
+            "from_period": 1,
+            "to_period": 1,
+            "start_reason": "Starting XI",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 23,
+            "position": "Center Forward",
+            "from": "00:32:40.935",
+            "to": "01:25:12.973",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Substitution - Off (Tactical)",
+            "counterpart_id": 30080,
+            "counterpart_name": "Anderson Oliveira Silva"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 187,
+          "name": "Romania"
+        }
+      },
+      {
+        "player_id": 33310,
+        "player_name": "Bruno Felipe Souza da Silva",
+        "player_nickname": "Bruno Souza",
+        "birth_date": "1994-05-26",
+        "player_gender": "male",
+        "player_height": 180.0,
+        "player_weight": 75.0,
+        "jersey_number": 7,
+        "positions": [
+          {
+            "position_id": 2,
+            "position": "Right Back",
+            "from": "00:00:00.000",
+            "to": "00:24:44.547",
+            "from_period": 1,
+            "to_period": 1,
+            "start_reason": "Starting XI",
+            "end_reason": "Second Yellow Card"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 31,
+          "name": "Brazil"
+        }
+      },
+      {
+        "player_id": 34681,
+        "player_name": "Neophytos Michael",
+        "player_nickname": null,
+        "birth_date": "1993-12-16",
+        "player_gender": "male",
+        "player_height": 190.0,
+        "player_weight": 85.0,
+        "jersey_number": 93,
+        "positions": [
+          {
+            "position_id": 1,
+            "position": "Goalkeeper",
+            "from": "00:00:00.000",
+            "to": null,
+            "from_period": 1,
+            "to_period": null,
+            "start_reason": "Starting XI",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 59,
+          "name": "Cyprus"
+        }
+      },
+      {
+        "player_id": 38724,
+        "player_name": "Jair Diego Alves de Brito",
+        "player_nickname": "Jajá",
+        "birth_date": "2001-04-15",
+        "player_gender": "male",
+        "player_height": 179.0,
+        "player_weight": 64.0,
+        "jersey_number": 11,
+        "positions": [
+          {
+            "position_id": 12,
+            "position": "Right Midfield",
+            "from": "00:00:00.000",
+            "to": "01:03:29.977",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Starting XI",
+            "end_reason": "Player Off"
+          },
+          {
+            "position_id": 12,
+            "position": "Right Midfield",
+            "from": "01:03:46.224",
+            "to": "01:16:23.654",
+            "from_period": 2,
+            "to_period": 2,
+            "start_reason": "Player On",
+            "end_reason": "Substitution - Off (Tactical)",
+            "counterpart_id": 10312,
+            "counterpart_name": "Ken Sema"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 31,
+          "name": "Brazil"
+        }
+      },
+      {
+        "player_id": 42323,
+        "player_name": "Jay Gorter",
+        "player_nickname": null,
+        "birth_date": "2000-05-30",
+        "player_gender": "male",
+        "player_height": 190.0,
+        "player_weight": 79.0,
+        "jersey_number": 1,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 160,
+          "name": "Netherlands"
+        }
+      },
+      {
+        "player_id": 75537,
+        "player_name": "David Goldar Gómez",
+        "player_nickname": "David Goldar",
+        "birth_date": "1994-09-15",
+        "player_gender": "male",
+        "player_height": 183.0,
+        "player_weight": 77.0,
+        "jersey_number": 5,
+        "positions": [
+          {
+            "position_id": 10,
+            "position": "Center Defensive Midfield",
+            "from": "00:00:00.000",
+            "to": "00:26:18.845",
+            "from_period": 1,
+            "to_period": 1,
+            "start_reason": "Starting XI",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 3,
+            "position": "Right Center Back",
+            "from": "00:26:18.845",
+            "to": "00:32:40.935",
+            "from_period": 1,
+            "to_period": 1,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 5,
+            "position": "Left Center Back",
+            "from": "00:32:40.935",
+            "to": null,
+            "from_period": 1,
+            "to_period": null,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 214,
+          "name": "Spain"
+        }
+      },
+      {
+        "player_id": 106070,
+        "player_name": "Bruno Alberto Langa",
+        "player_nickname": "Bruno Langa",
+        "birth_date": "1997-10-31",
+        "player_gender": "male",
+        "player_height": 178.0,
+        "player_weight": 70.0,
+        "jersey_number": 25,
+        "positions": [
+          {
+            "position_id": 2,
+            "position": "Right Back",
+            "from": "01:16:31.004",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Substitution - On (Tactical)",
+            "end_reason": "Final Whistle",
+            "counterpart_id": 132783,
+            "counterpart_name": "João Pedro Araújo Correia"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 155,
+          "name": "Mozambique"
+        }
+      },
+      {
+        "player_id": 132783,
+        "player_name": "João Pedro Araújo Correia",
+        "player_nickname": "João Correia",
+        "birth_date": "1996-09-05",
+        "player_gender": "male",
+        "player_height": 175.0,
+        "player_weight": 68.0,
+        "jersey_number": 77,
+        "positions": [
+          {
+            "position_id": 6,
+            "position": "Left Back",
+            "from": "00:00:00.000",
+            "to": "00:29:30.048",
+            "from_period": 1,
+            "to_period": 1,
+            "start_reason": "Starting XI",
+            "end_reason": "Player Off"
+          },
+          {
+            "position_id": 6,
+            "position": "Left Back",
+            "from": "00:30:16.525",
+            "to": "00:32:40.935",
+            "from_period": 1,
+            "to_period": 1,
+            "start_reason": "Player On",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 2,
+            "position": "Right Back",
+            "from": "00:32:40.935",
+            "to": "01:16:31.004",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Substitution - Off (Tactical)",
+            "counterpart_id": 106070,
+            "counterpart_name": "Bruno Alberto Langa"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 41,
+          "name": "Cape Verde"
+        }
+      },
+      {
+        "player_id": 398885,
+        "player_name": "Kostas Pileas",
+        "player_nickname": null,
+        "birth_date": "1998-12-11",
+        "player_gender": "male",
+        "player_height": 177.0,
+        "player_weight": null,
+        "jersey_number": 2,
+        "positions": [
+          {
+            "position_id": 5,
+            "position": "Left Center Back",
+            "from": "00:32:33.818",
+            "to": "00:32:40.935",
+            "from_period": 1,
+            "to_period": 1,
+            "start_reason": "Substitution - On (Injury)",
+            "end_reason": "Tactical Shift",
+            "counterpart_id": 3956,
+            "counterpart_name": "David Luiz Moreira Marinho"
+          },
+          {
+            "position_id": 6,
+            "position": "Left Back",
+            "from": "00:32:40.935",
+            "to": null,
+            "from_period": 1,
+            "to_period": null,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 59,
+          "name": "Cyprus"
+        }
+      },
+      {
+        "player_id": 435965,
+        "player_name": "Petros Petrou",
+        "player_nickname": null,
+        "birth_date": "2006-08-10",
+        "player_gender": "male",
+        "player_height": null,
+        "player_weight": null,
+        "jersey_number": 82,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 59,
+          "name": "Cyprus"
+        }
+      }
+    ],
+    "formations": [
+      {
+        "period": 1,
+        "timestamp": "00:00:00.000",
+        "reason": "Starting XI",
+        "formation": 4141
+      },
+      {
+        "period": 1,
+        "timestamp": "00:26:18.845",
+        "reason": "Tactical Shift",
+        "formation": 4411
+      }
+    ],
+    "events": [
+      {
+        "period": 1,
+        "timestamp": "00:00:00.000",
+        "type": "Half Start"
+      },
+      {
+        "player_id": 33310,
+        "player_name": "Bruno Felipe Souza da Silva",
+        "period": 1,
+        "timestamp": "00:14:00.335",
+        "type": "Foul Committed",
+        "outcome": "Yellow Card"
+      },
+      {
+        "player_id": 33310,
+        "player_name": "Bruno Felipe Souza da Silva",
+        "period": 1,
+        "timestamp": "00:24:44.547",
+        "type": "Foul Committed",
+        "outcome": "Second Yellow"
+      },
+      {
+        "period": 1,
+        "timestamp": "00:49:05.858",
+        "type": "Half End"
+      },
+      {
+        "period": 2,
+        "timestamp": "00:45:00.000",
+        "type": "Half Start"
+      },
+      {
+        "player_id": 106070,
+        "player_name": "Bruno Alberto Langa",
+        "period": 2,
+        "timestamp": "01:27:49.872",
+        "type": "Foul Committed",
+        "outcome": "Yellow Card"
+      },
+      {
+        "period": 2,
+        "timestamp": "01:36:06.352",
+        "type": "Half End"
+      }
+    ]
+  }
+]

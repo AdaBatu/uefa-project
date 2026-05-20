@@ -1,0 +1,1558 @@
+[
+  {
+    "team_id": 129,
+    "team_name": "AS Monaco",
+    "lineup": [
+      {
+        "player_id": 5177,
+        "player_name": "Aleksandr Golovin",
+        "player_nickname": null,
+        "birth_date": "1996-05-30",
+        "player_gender": "male",
+        "player_height": 178.0,
+        "player_weight": 69.0,
+        "jersey_number": 10,
+        "positions": [
+          {
+            "position_id": 15,
+            "position": "Left Center Midfield",
+            "from": "00:00:00.000",
+            "to": "01:03:27.562",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Starting XI",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 19,
+            "position": "Center Attacking Midfield",
+            "from": "01:03:27.562",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 188,
+          "name": "Russia"
+        }
+      },
+      {
+        "player_id": 8511,
+        "player_name": "Thilo Kehrer",
+        "player_nickname": null,
+        "birth_date": "1996-09-21",
+        "player_gender": "male",
+        "player_height": 186.0,
+        "player_weight": 76.0,
+        "jersey_number": 5,
+        "positions": [
+          {
+            "position_id": 3,
+            "position": "Right Center Back",
+            "from": "00:00:00.000",
+            "to": null,
+            "from_period": 1,
+            "to_period": null,
+            "start_reason": "Starting XI",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 85,
+          "name": "Germany"
+        }
+      },
+      {
+        "player_id": 8776,
+        "player_name": "Takumi Minamino",
+        "player_nickname": null,
+        "birth_date": "1995-01-16",
+        "player_gender": "male",
+        "player_height": 172.0,
+        "player_weight": 68.0,
+        "jersey_number": 18,
+        "positions": [
+          {
+            "position_id": 13,
+            "position": "Right Center Midfield",
+            "from": "00:00:00.000",
+            "to": "01:02:33.694",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Starting XI",
+            "end_reason": "Substitution - Off (Tactical)",
+            "counterpart_id": 409435,
+            "counterpart_name": "Pape Cabral"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 114,
+          "name": "Japan"
+        }
+      },
+      {
+        "player_id": 16238,
+        "player_name": "Jordan Teze",
+        "player_nickname": null,
+        "birth_date": "1999-09-30",
+        "player_gender": "male",
+        "player_height": 183.0,
+        "player_weight": 68.0,
+        "jersey_number": 4,
+        "positions": [
+          {
+            "position_id": 7,
+            "position": "Right Wing Back",
+            "from": "00:00:00.000",
+            "to": null,
+            "from_period": 1,
+            "to_period": null,
+            "start_reason": "Starting XI",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 160,
+          "name": "Netherlands"
+        }
+      },
+      {
+        "player_id": 25295,
+        "player_name": "Caio Henrique Oliveira Silva",
+        "player_nickname": "Caio Henrique",
+        "birth_date": "1997-07-31",
+        "player_gender": "male",
+        "player_height": 178.0,
+        "player_weight": 68.0,
+        "jersey_number": 12,
+        "positions": [
+          {
+            "position_id": 5,
+            "position": "Left Center Back",
+            "from": "00:00:00.000",
+            "to": null,
+            "from_period": 1,
+            "to_period": null,
+            "start_reason": "Starting XI",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 31,
+          "name": "Brazil"
+        }
+      },
+      {
+        "player_id": 30519,
+        "player_name": "Mohamed Salisu",
+        "player_nickname": null,
+        "birth_date": "1999-04-17",
+        "player_gender": "male",
+        "player_height": 188.0,
+        "player_weight": 82.0,
+        "jersey_number": 22,
+        "positions": [
+          {
+            "position_id": 4,
+            "position": "Center Back",
+            "from": "00:00:00.000",
+            "to": null,
+            "from_period": 1,
+            "to_period": null,
+            "start_reason": "Starting XI",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 86,
+          "name": "Ghana"
+        }
+      },
+      {
+        "player_id": 46313,
+        "player_name": "Philipp Köhn",
+        "player_nickname": null,
+        "birth_date": "1998-04-02",
+        "player_gender": "male",
+        "player_height": 190.0,
+        "player_weight": 80.0,
+        "jersey_number": 16,
+        "positions": [
+          {
+            "position_id": 1,
+            "position": "Goalkeeper",
+            "from": "00:00:00.000",
+            "to": null,
+            "from_period": 1,
+            "to_period": null,
+            "start_reason": "Starting XI",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 221,
+          "name": "Switzerland"
+        }
+      },
+      {
+        "player_id": 51733,
+        "player_name": "Folarin Balogun",
+        "player_nickname": null,
+        "birth_date": "2001-07-03",
+        "player_gender": "male",
+        "player_height": 178.0,
+        "player_weight": 66.0,
+        "jersey_number": 9,
+        "positions": [
+          {
+            "position_id": 24,
+            "position": "Left Center Forward",
+            "from": "00:00:00.000",
+            "to": null,
+            "from_period": 1,
+            "to_period": null,
+            "start_reason": "Starting XI",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 1,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 241,
+          "name": "USA"
+        }
+      },
+      {
+        "player_id": 133414,
+        "player_name": "Yann Lienard",
+        "player_nickname": null,
+        "birth_date": "2003-03-16",
+        "player_gender": "male",
+        "player_height": 194.0,
+        "player_weight": 83.0,
+        "jersey_number": 50,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 78,
+          "name": "France"
+        }
+      },
+      {
+        "player_id": 134854,
+        "player_name": "Mika Biereth",
+        "player_nickname": null,
+        "birth_date": "2003-02-08",
+        "player_gender": "male",
+        "player_height": 187.0,
+        "player_weight": 69.0,
+        "jersey_number": 14,
+        "positions": [
+          {
+            "position_id": 22,
+            "position": "Right Center Forward",
+            "from": "01:11:49.913",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Substitution - On (Tactical)",
+            "end_reason": "Final Whistle",
+            "counterpart_id": 144884,
+            "counterpart_name": "Maghnes Akliouche"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 61,
+          "name": "Denmark"
+        }
+      },
+      {
+        "player_id": 136917,
+        "player_name": "Aladji Bamba",
+        "player_nickname": null,
+        "birth_date": "2006-07-14",
+        "player_gender": "male",
+        "player_height": 181.0,
+        "player_weight": 67.0,
+        "jersey_number": 23,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 78,
+          "name": "France"
+        }
+      },
+      {
+        "player_id": 144884,
+        "player_name": "Maghnes Akliouche",
+        "player_nickname": null,
+        "birth_date": "2002-02-25",
+        "player_gender": "male",
+        "player_height": 183.0,
+        "player_weight": 59.0,
+        "jersey_number": 11,
+        "positions": [
+          {
+            "position_id": 22,
+            "position": "Right Center Forward",
+            "from": "00:00:00.000",
+            "to": "01:11:49.913",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Starting XI",
+            "end_reason": "Substitution - Off (Tactical)",
+            "counterpart_id": 134854,
+            "counterpart_name": "Mika Biereth"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 1,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 78,
+          "name": "France"
+        }
+      },
+      {
+        "player_id": 195840,
+        "player_name": "Lucas Michal",
+        "player_nickname": null,
+        "birth_date": "2005-06-22",
+        "player_gender": "male",
+        "player_height": 185.0,
+        "player_weight": null,
+        "jersey_number": 21,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 78,
+          "name": "France"
+        }
+      },
+      {
+        "player_id": 232179,
+        "player_name": "Mamadou Coulibaly",
+        "player_nickname": null,
+        "birth_date": "2004-04-21",
+        "player_gender": "male",
+        "player_height": 176.0,
+        "player_weight": 75.0,
+        "jersey_number": 28,
+        "positions": [
+          {
+            "position_id": 10,
+            "position": "Center Defensive Midfield",
+            "from": "00:00:00.000",
+            "to": "01:03:27.562",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Starting XI",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 9,
+            "position": "Right Defensive Midfield",
+            "from": "01:03:27.562",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 78,
+          "name": "France"
+        }
+      },
+      {
+        "player_id": 253303,
+        "player_name": "Stanis Idumbo Muzambo",
+        "player_nickname": null,
+        "birth_date": "2005-06-29",
+        "player_gender": "male",
+        "player_height": 171.0,
+        "player_weight": 60.0,
+        "jersey_number": 17,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 22,
+          "name": "Belgium"
+        }
+      },
+      {
+        "player_id": 302001,
+        "player_name": "Kassoum Ouattara",
+        "player_nickname": null,
+        "birth_date": "2004-10-14",
+        "player_gender": "male",
+        "player_height": 176.0,
+        "player_weight": 73.0,
+        "jersey_number": 20,
+        "positions": [
+          {
+            "position_id": 8,
+            "position": "Left Wing Back",
+            "from": "00:00:00.000",
+            "to": null,
+            "from_period": 1,
+            "to_period": null,
+            "start_reason": "Starting XI",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 78,
+          "name": "France"
+        }
+      },
+      {
+        "player_id": 347997,
+        "player_name": "Jules Stawiecki",
+        "player_nickname": null,
+        "birth_date": "2007-04-10",
+        "player_gender": "male",
+        "player_height": 186.0,
+        "player_weight": 80.0,
+        "jersey_number": 40,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 78,
+          "name": "France"
+        }
+      },
+      {
+        "player_id": 360271,
+        "player_name": "George Ilenikhena",
+        "player_nickname": null,
+        "birth_date": "2006-08-16",
+        "player_gender": "male",
+        "player_height": 185.0,
+        "player_weight": 76.0,
+        "jersey_number": 19,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 78,
+          "name": "France"
+        }
+      },
+      {
+        "player_id": 409435,
+        "player_name": "Pape Cabral",
+        "player_nickname": null,
+        "birth_date": "2007-01-20",
+        "player_gender": "male",
+        "player_height": null,
+        "player_weight": null,
+        "jersey_number": 43,
+        "positions": [
+          {
+            "position_id": 13,
+            "position": "Right Center Midfield",
+            "from": "01:02:33.694",
+            "to": "01:03:27.562",
+            "from_period": 2,
+            "to_period": 2,
+            "start_reason": "Substitution - On (Tactical)",
+            "end_reason": "Tactical Shift",
+            "counterpart_id": 8776,
+            "counterpart_name": "Takumi Minamino"
+          },
+          {
+            "position_id": 11,
+            "position": "Left Defensive Midfield",
+            "from": "01:03:27.562",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 78,
+          "name": "France"
+        }
+      }
+    ],
+    "formations": [
+      {
+        "period": 1,
+        "timestamp": "00:00:00.000",
+        "reason": "Starting XI",
+        "formation": 352
+      },
+      {
+        "period": 2,
+        "timestamp": "01:03:27.562",
+        "reason": "Tactical Shift",
+        "formation": 3412
+      }
+    ],
+    "events": [
+      {
+        "period": 1,
+        "timestamp": "00:00:00.000",
+        "type": "Half Start"
+      },
+      {
+        "player_id": 8511,
+        "player_name": "Thilo Kehrer",
+        "period": 1,
+        "timestamp": "00:23:23.635",
+        "type": "Foul Committed",
+        "outcome": "Yellow Card"
+      },
+      {
+        "player_id": 30519,
+        "player_name": "Mohamed Salisu",
+        "period": 1,
+        "timestamp": "00:41:01.470",
+        "type": "Foul Committed",
+        "outcome": "Yellow Card"
+      },
+      {
+        "player_id": 144884,
+        "player_name": "Maghnes Akliouche",
+        "period": 1,
+        "timestamp": "00:42:08.808",
+        "type": "Ground Pass",
+        "outcome": "Assist"
+      },
+      {
+        "player_id": 51733,
+        "player_name": "Folarin Balogun",
+        "period": 1,
+        "timestamp": "00:42:11.539",
+        "type": "Shot",
+        "outcome": "Goal"
+      },
+      {
+        "player_id": 302001,
+        "player_name": "Kassoum Ouattara",
+        "period": 1,
+        "timestamp": "00:42:17.546",
+        "type": "Bad Behaviour",
+        "outcome": "Yellow Card"
+      },
+      {
+        "player_id": 5177,
+        "player_name": "Aleksandr Golovin",
+        "period": 1,
+        "timestamp": "00:49:05.586",
+        "type": "Bad Behaviour",
+        "outcome": "Yellow Card"
+      },
+      {
+        "period": 1,
+        "timestamp": "00:49:05.986",
+        "type": "Half End"
+      },
+      {
+        "period": 2,
+        "timestamp": "00:45:00.000",
+        "type": "Half Start"
+      },
+      {
+        "period": 2,
+        "timestamp": "01:34:05.220",
+        "type": "Half End"
+      }
+    ]
+  },
+  {
+    "team_id": 1450,
+    "team_name": "Bodø / Glimt",
+    "lineup": [
+      {
+        "player_id": 24229,
+        "player_name": "Mathias Jörgensen",
+        "player_nickname": null,
+        "birth_date": "2000-09-20",
+        "player_gender": "male",
+        "player_height": 185.0,
+        "player_weight": 75.0,
+        "jersey_number": 30,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 61,
+          "name": "Denmark"
+        }
+      },
+      {
+        "player_id": 25825,
+        "player_name": "Kasper Waarst Høgh",
+        "player_nickname": null,
+        "birth_date": "2000-12-06",
+        "player_gender": "male",
+        "player_height": 186.0,
+        "player_weight": 61.0,
+        "jersey_number": 9,
+        "positions": [
+          {
+            "position_id": 23,
+            "position": "Center Forward",
+            "from": "00:00:00.000",
+            "to": "01:12:18.752",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Starting XI",
+            "end_reason": "Substitution - Off (Tactical)",
+            "counterpart_id": 391818,
+            "counterpart_name": "Andreas Klausen Helmersen"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 61,
+          "name": "Denmark"
+        }
+      },
+      {
+        "player_id": 29744,
+        "player_name": "Julian Faye Lund",
+        "player_nickname": null,
+        "birth_date": "1999-05-20",
+        "player_gender": "male",
+        "player_height": 186.0,
+        "player_weight": 80.0,
+        "jersey_number": 1,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 171,
+          "name": "Norway"
+        }
+      },
+      {
+        "player_id": 29925,
+        "player_name": "Jens Petter Hauge",
+        "player_nickname": null,
+        "birth_date": "1999-10-12",
+        "player_gender": "male",
+        "player_height": 184.0,
+        "player_weight": 75.0,
+        "jersey_number": 10,
+        "positions": [
+          {
+            "position_id": 21,
+            "position": "Left Wing",
+            "from": "00:00:00.000",
+            "to": "01:22:54.631",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Starting XI",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 16,
+            "position": "Left Midfield",
+            "from": "01:22:54.631",
+            "to": "01:25:32.674",
+            "from_period": 2,
+            "to_period": 2,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Substitution - Off (Tactical)",
+            "counterpart_id": 430451,
+            "counterpart_name": "Villads Schmidt Nielsen"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 171,
+          "name": "Norway"
+        }
+      },
+      {
+        "player_id": 29930,
+        "player_name": "Håkon Evjen",
+        "player_nickname": null,
+        "birth_date": "2000-02-14",
+        "player_gender": "male",
+        "player_height": 178.0,
+        "player_weight": 70.0,
+        "jersey_number": 26,
+        "positions": [
+          {
+            "position_id": 13,
+            "position": "Right Center Midfield",
+            "from": "00:00:00.000",
+            "to": "01:22:54.631",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Starting XI",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 9,
+            "position": "Right Defensive Midfield",
+            "from": "01:22:54.631",
+            "to": "01:25:55.269",
+            "from_period": 2,
+            "to_period": 2,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 13,
+            "position": "Right Center Midfield",
+            "from": "01:25:55.269",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 171,
+          "name": "Norway"
+        }
+      },
+      {
+        "player_id": 29932,
+        "player_name": "Fredrik André Bjørkan",
+        "player_nickname": null,
+        "birth_date": "1998-08-21",
+        "player_gender": "male",
+        "player_height": 180.0,
+        "player_weight": 74.0,
+        "jersey_number": 15,
+        "positions": [
+          {
+            "position_id": 6,
+            "position": "Left Back",
+            "from": "00:00:00.000",
+            "to": "01:25:28.174",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Starting XI",
+            "end_reason": "Substitution - Off (Tactical)",
+            "counterpart_id": 41861,
+            "counterpart_name": "Isak Dybvik Määttä"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 171,
+          "name": "Norway"
+        }
+      },
+      {
+        "player_id": 29935,
+        "player_name": "Brede Mathias Moe",
+        "player_nickname": "Brede Moe",
+        "birth_date": "1991-12-15",
+        "player_gender": "male",
+        "player_height": 184.0,
+        "player_weight": 80.0,
+        "jersey_number": 18,
+        "positions": [
+          {
+            "position_id": 3,
+            "position": "Right Center Back",
+            "from": "00:00:00.000",
+            "to": "00:45:00.000",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Starting XI",
+            "end_reason": "Substitution - Off (Tactical)",
+            "counterpart_id": 30844,
+            "counterpart_name": "Jostein Maurstad Gundersen"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 171,
+          "name": "Norway"
+        }
+      },
+      {
+        "player_id": 29936,
+        "player_name": "Patrick Berg",
+        "player_nickname": null,
+        "birth_date": "1997-11-24",
+        "player_gender": "male",
+        "player_height": 178.0,
+        "player_weight": 70.0,
+        "jersey_number": 7,
+        "positions": [
+          {
+            "position_id": 10,
+            "position": "Center Defensive Midfield",
+            "from": "00:00:00.000",
+            "to": "01:22:54.631",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Starting XI",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 5,
+            "position": "Left Center Back",
+            "from": "01:22:54.631",
+            "to": "01:25:55.269",
+            "from_period": 2,
+            "to_period": 2,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 10,
+            "position": "Center Defensive Midfield",
+            "from": "01:25:55.269",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 171,
+          "name": "Norway"
+        }
+      },
+      {
+        "player_id": 30242,
+        "player_name": "Odin Bjørtuft",
+        "player_nickname": null,
+        "birth_date": "1998-12-19",
+        "player_gender": "male",
+        "player_height": 188.0,
+        "player_weight": null,
+        "jersey_number": 4,
+        "positions": [
+          {
+            "position_id": 5,
+            "position": "Left Center Back",
+            "from": "00:00:00.000",
+            "to": "00:45:00.000",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Starting XI",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 3,
+            "position": "Right Center Back",
+            "from": "00:45:00.000",
+            "to": "01:25:55.269",
+            "from_period": 2,
+            "to_period": 2,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 5,
+            "position": "Left Center Back",
+            "from": "01:25:55.269",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 171,
+          "name": "Norway"
+        }
+      },
+      {
+        "player_id": 30844,
+        "player_name": "Jostein Maurstad Gundersen",
+        "player_nickname": "Jostein Gundersen",
+        "birth_date": "1996-04-02",
+        "player_gender": "male",
+        "player_height": 186.0,
+        "player_weight": 82.0,
+        "jersey_number": 6,
+        "positions": [
+          {
+            "position_id": 5,
+            "position": "Left Center Back",
+            "from": "00:45:00.000",
+            "to": "01:20:35.176",
+            "from_period": 2,
+            "to_period": 2,
+            "start_reason": "Substitution - On (Tactical)",
+            "end_reason": "Red Card",
+            "counterpart_id": 29935,
+            "counterpart_name": "Brede Mathias Moe"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 171,
+          "name": "Norway"
+        }
+      },
+      {
+        "player_id": 34165,
+        "player_name": "Nikita Haikin",
+        "player_nickname": null,
+        "birth_date": "1995-07-11",
+        "player_gender": "male",
+        "player_height": 185.0,
+        "player_weight": 68.0,
+        "jersey_number": 12,
+        "positions": [
+          {
+            "position_id": 1,
+            "position": "Goalkeeper",
+            "from": "00:00:00.000",
+            "to": null,
+            "from_period": 1,
+            "to_period": null,
+            "start_reason": "Starting XI",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 188,
+          "name": "Russia"
+        }
+      },
+      {
+        "player_id": 41302,
+        "player_name": "Sondre Brunstad Fet",
+        "player_nickname": "Sondre Fet",
+        "birth_date": "1997-01-17",
+        "player_gender": "male",
+        "player_height": 178.0,
+        "player_weight": 74.0,
+        "jersey_number": 19,
+        "positions": [
+          {
+            "position_id": 15,
+            "position": "Left Center Midfield",
+            "from": "00:00:00.000",
+            "to": "01:12:27.164",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Starting XI",
+            "end_reason": "Substitution - Off (Tactical)",
+            "counterpart_id": 49860,
+            "counterpart_name": "Ole Didrik Blomberg"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 171,
+          "name": "Norway"
+        }
+      },
+      {
+        "player_id": 41304,
+        "player_name": "Sondre Auklend",
+        "player_nickname": null,
+        "birth_date": "2003-06-10",
+        "player_gender": "male",
+        "player_height": 161.0,
+        "player_weight": 52.0,
+        "jersey_number": 8,
+        "positions": [
+          {
+            "position_id": 17,
+            "position": "Right Wing",
+            "from": "00:00:00.000",
+            "to": "01:12:54.655",
+            "from_period": 1,
+            "to_period": 2,
+            "start_reason": "Starting XI",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 15,
+            "position": "Left Center Midfield",
+            "from": "01:12:54.655",
+            "to": "01:22:54.631",
+            "from_period": 2,
+            "to_period": 2,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 11,
+            "position": "Left Defensive Midfield",
+            "from": "01:22:54.631",
+            "to": "01:25:55.269",
+            "from_period": 2,
+            "to_period": 2,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 15,
+            "position": "Left Center Midfield",
+            "from": "01:25:55.269",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 171,
+          "name": "Norway"
+        }
+      },
+      {
+        "player_id": 41571,
+        "player_name": "Anders Ferslev Klynge",
+        "player_nickname": "Anders Klynge",
+        "birth_date": "2000-10-14",
+        "player_gender": "male",
+        "player_height": 175.0,
+        "player_weight": 70.0,
+        "jersey_number": 22,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 61,
+          "name": "Denmark"
+        }
+      },
+      {
+        "player_id": 41861,
+        "player_name": "Isak Dybvik Määttä",
+        "player_nickname": null,
+        "birth_date": "2001-09-19",
+        "player_gender": "male",
+        "player_height": 188.0,
+        "player_weight": 72.0,
+        "jersey_number": 25,
+        "positions": [
+          {
+            "position_id": 6,
+            "position": "Left Back",
+            "from": "01:25:28.174",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Substitution - On (Tactical)",
+            "end_reason": "Final Whistle",
+            "counterpart_id": 29932,
+            "counterpart_name": "Fredrik André Bjørkan"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 171,
+          "name": "Norway"
+        }
+      },
+      {
+        "player_id": 49860,
+        "player_name": "Ole Didrik Blomberg",
+        "player_nickname": null,
+        "birth_date": "2000-06-12",
+        "player_gender": "male",
+        "player_height": 177.0,
+        "player_weight": 71.0,
+        "jersey_number": 11,
+        "positions": [
+          {
+            "position_id": 15,
+            "position": "Left Center Midfield",
+            "from": "01:12:27.164",
+            "to": "01:12:54.655",
+            "from_period": 2,
+            "to_period": 2,
+            "start_reason": "Substitution - On (Tactical)",
+            "end_reason": "Tactical Shift",
+            "counterpart_id": 41302,
+            "counterpart_name": "Sondre Brunstad Fet"
+          },
+          {
+            "position_id": 17,
+            "position": "Right Wing",
+            "from": "01:12:54.655",
+            "to": "01:22:54.631",
+            "from_period": 2,
+            "to_period": 2,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 12,
+            "position": "Right Midfield",
+            "from": "01:22:54.631",
+            "to": "01:25:55.269",
+            "from_period": 2,
+            "to_period": 2,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Tactical Shift"
+          },
+          {
+            "position_id": 22,
+            "position": "Right Center Forward",
+            "from": "01:25:55.269",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 171,
+          "name": "Norway"
+        }
+      },
+      {
+        "player_id": 127265,
+        "player_name": "Magnus Bech Riisnæs",
+        "player_nickname": null,
+        "birth_date": "2004-11-04",
+        "player_gender": "male",
+        "player_height": 182.0,
+        "player_weight": 73.0,
+        "jersey_number": 23,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 171,
+          "name": "Norway"
+        }
+      },
+      {
+        "player_id": 129357,
+        "player_name": "Magnus Brøndbo",
+        "player_nickname": null,
+        "birth_date": "2005-03-02",
+        "player_gender": "male",
+        "player_height": 188.0,
+        "player_weight": null,
+        "jersey_number": 44,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 171,
+          "name": "Norway"
+        }
+      },
+      {
+        "player_id": 242205,
+        "player_name": "Daniel Bassi",
+        "player_nickname": null,
+        "birth_date": "2004-10-31",
+        "player_gender": "male",
+        "player_height": 175.0,
+        "player_weight": 70.0,
+        "jersey_number": 24,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 171,
+          "name": "Norway"
+        }
+      },
+      {
+        "player_id": 247743,
+        "player_name": "Fredrik Sjøvold",
+        "player_nickname": null,
+        "birth_date": "2003-08-17",
+        "player_gender": "male",
+        "player_height": 168.0,
+        "player_weight": null,
+        "jersey_number": 20,
+        "positions": [
+          {
+            "position_id": 2,
+            "position": "Right Back",
+            "from": "00:00:00.000",
+            "to": null,
+            "from_period": 1,
+            "to_period": null,
+            "start_reason": "Starting XI",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 171,
+          "name": "Norway"
+        }
+      },
+      {
+        "player_id": 391818,
+        "player_name": "Andreas Klausen Helmersen",
+        "player_nickname": null,
+        "birth_date": "1998-03-15",
+        "player_gender": "male",
+        "player_height": 190.0,
+        "player_weight": 82.0,
+        "jersey_number": 21,
+        "positions": [
+          {
+            "position_id": 23,
+            "position": "Center Forward",
+            "from": "01:12:18.752",
+            "to": "01:25:55.269",
+            "from_period": 2,
+            "to_period": 2,
+            "start_reason": "Substitution - On (Tactical)",
+            "end_reason": "Tactical Shift",
+            "counterpart_id": 25825,
+            "counterpart_name": "Kasper Waarst Høgh"
+          },
+          {
+            "position_id": 24,
+            "position": "Left Center Forward",
+            "from": "01:25:55.269",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 171,
+          "name": "Norway"
+        }
+      },
+      {
+        "player_id": 430451,
+        "player_name": "Villads Schmidt Nielsen",
+        "player_nickname": "Villads Nielsen",
+        "birth_date": "2005-01-29",
+        "player_gender": "male",
+        "player_height": 192.0,
+        "player_weight": 82.0,
+        "jersey_number": 2,
+        "positions": [
+          {
+            "position_id": 16,
+            "position": "Left Midfield",
+            "from": "01:25:32.674",
+            "to": "01:25:55.269",
+            "from_period": 2,
+            "to_period": 2,
+            "start_reason": "Substitution - On (Tactical)",
+            "end_reason": "Tactical Shift",
+            "counterpart_id": 29925,
+            "counterpart_name": "Jens Petter Hauge"
+          },
+          {
+            "position_id": 3,
+            "position": "Right Center Back",
+            "from": "01:25:55.269",
+            "to": null,
+            "from_period": 2,
+            "to_period": null,
+            "start_reason": "Tactical Shift",
+            "end_reason": "Final Whistle"
+          }
+        ],
+        "stats": {
+          "own_goals": 0,
+          "goals": 0,
+          "assists": 0,
+          "penalties_scored": 0,
+          "penalties_missed": 0,
+          "penalties_saved": 0
+        },
+        "country": {
+          "id": 61,
+          "name": "Denmark"
+        }
+      },
+      {
+        "player_id": 462581,
+        "player_name": "Mikkel Bro Hansen",
+        "player_nickname": "Mikkel Hansen",
+        "birth_date": "2009-01-25",
+        "player_gender": "male",
+        "player_height": null,
+        "player_weight": null,
+        "jersey_number": 77,
+        "positions": [],
+        "stats": [],
+        "country": {
+          "id": 61,
+          "name": "Denmark"
+        }
+      }
+    ],
+    "formations": [
+      {
+        "period": 1,
+        "timestamp": "00:00:00.000",
+        "reason": "Starting XI",
+        "formation": 433
+      },
+      {
+        "period": 2,
+        "timestamp": "01:22:54.631",
+        "reason": "Tactical Shift",
+        "formation": 4411
+      },
+      {
+        "period": 2,
+        "timestamp": "01:25:55.269",
+        "reason": "Tactical Shift",
+        "formation": 41212
+      }
+    ],
+    "events": [
+      {
+        "period": 1,
+        "timestamp": "00:00:00.000",
+        "type": "Half Start"
+      },
+      {
+        "player_id": 41304,
+        "player_name": "Sondre Auklend",
+        "period": 1,
+        "timestamp": "00:03:18.904",
+        "type": "Foul Committed",
+        "outcome": "Yellow Card"
+      },
+      {
+        "period": 1,
+        "timestamp": "00:49:05.986",
+        "type": "Half End"
+      },
+      {
+        "period": 2,
+        "timestamp": "00:45:00.000",
+        "type": "Half Start"
+      },
+      {
+        "player_id": 30844,
+        "player_name": "Jostein Maurstad Gundersen",
+        "period": 2,
+        "timestamp": "01:20:35.176",
+        "type": "Foul Committed",
+        "outcome": "Red Card"
+      },
+      {
+        "period": 2,
+        "timestamp": "01:34:05.220",
+        "type": "Half End"
+      }
+    ]
+  }
+]
