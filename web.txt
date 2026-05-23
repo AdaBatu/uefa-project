@@ -1,0 +1,165 @@
+<details>
+<summary>Project Group</summary>
+
+_Please fill in the following table._
+
+| handle | name |
+|--------|------|
+| @cgoektan     | Can Göktan |
+| @igabay     | Irem Gabay |
+| @eschmi     | Esteban Schmid |
+| @yildirima     | Ada Batu Yildirim |
+| @uakbas     | Utku Akbas |
+
+- [x] check this if your final results may be shared with clubs, associations, or companies
+
+</details>
+
+<details>
+<summary>TA Comments (last update: 21.04.2026)</summary>
+
+Your teaching assistant is Ruven Ugas ( @ruugas ) and can be reached at ruugas@ethz.ch
+
+- [ ] when saving, please indicate what you have changed in a meaningful commit message
+- [ ] first assignment due: **March 12**
+- [ ] second assignment due: **April 12**
+- [ ] report and poster due: **May 24**
+
+<details>
+<summary>Feedback for first assignment - Counting passes (18.03.2026)</summary>
+
+Well done, it seems that you handled the event data correctly. Props for already analyzing the passing accuracies of the different players, which might be handy further down the line for your report.
+
+**What your group specifically needs to watch out for:**
+- If you choose to create subpages, please make it easier for us to find them by always 1) linking to them in your group's main page and 2) ensuring that they appear as subpages of your main page in the wiki structure. This can be done by specifying the path of your subpage. Eg, if you are team AJX AD (with page path AJX-AD) and want to create a passing subpage, your subpage should have the path AJX-AD/passing.
+- I noticed that for both the passes and team page, only the default commit messages were used. Please enter meaningful commit messages instead of using the default “Update [page name]“. As your report will grow the lack of appropriate commit messages makes it very hard for us to keep track of what has changed on your page.
+
+
+**General notes:**
+- All code snippets should be entered into the snippet repository. Please ensure you follow all the guidelines on that page when detailing your code. Refer to the provided $2642 or $2643 snippets for examples of what is expected. If your snippet is something new and helpful for other teams, feel free to add it to the [snippet overview page](/snippet-overview) so that other teams can find it more easily.
+- When writing your analysis, always reference the code snippets you used by including $[snippet_id] in your text—this applies whether your team created the snippet or it came from another team. You can find more details about how to use and create snippets here: https://gitlab.ethz.ch/socceranalytics/uefa-cl-2025-2026/-/wikis/snippet-overview. Additionally, when you create a new snippet, make sure to link back to your analysis page so that other teams can see the snippet in context and understand what it does.
+- The first assignment was designed to familiarise you with gitlab, encourage you to make use of the data and document the steps you took to reach your result, and perhaps visit other groups’ pages. As this was a rather elementary analysis, note that the results of this first assignment can but do not have to stay on your page.
+- Looking forward to the second assignment: The core intention will be to practice the documentation and interpretation analysis. This serves as an opportunity to meet the requirements of documenting analyses for replication and interpreting your results meaningfully. Please approach this round of analysis with high quality, such that you may find it suitable to include directly in your final report later. (A note on interpretation: Interpretation means providing contextualized meaning rather than simply pointing out which numbers are larger/smaller than others. It involves explaining results and translating those findings into meaningful conclusions)
+- As a reminder, please be extremely careful when using AI tools with the dataset. The data has been shared with us **under the strict condition that it must not be leaked or distributed outside the ETH Zurich environment.** You may keep a local copy on your machine for analysis, but the dataset must not be uploaded to external platforms or third-party cloud services (e.g., Google Colab, Google Drive). If you would still like to use AI tools, ETH provides access to certain options within a protected environment. Please refer to: https://ethz.ch/en/the-eth-zurich/education/ai-in-education/tools.html. In particular, ETH offers Microsoft Copilot in this protected setup (note that this is not the same as GitHub Copilot).
+
+</details>
+
+<details>
+<summary>Feedback for second assignment – Draft structure and three analyses (21.04.2026)</summary>
+**Group-specific feedback:**
+
+-	Although you made three analyses, I think the choice of the current heatmaps might not be optimal. For the interceptions, all hexagons have the same value, and for the ball losses leading to shots there are only two values present. I would choose heatmaps that actually show a continous probability field, as such you can make better statements about the analysis. I would also advise you to focus more on on-ball analyses like chance creation and build-up, and benchmark your analyses against the league average. If you follow the guidelines below and take some inspiration from other teams, I think you will end up with a good report.
+
+**General notes/Final report guidelines:**
+-	**CREATING AND CITING CODE SNIPPETS:** Don’t put code into a wiki page, but create a snippet. Snippets should state which group made them and link back to the page for which they have been created. Snippets should be cited in the page so that others can make use of them in case they like the analysis. This also applies to short code snippets. **Don’t forget to link the code snippets you used for the creation of the graphs in your report!**
+-	**WIKI PAGES AS SUBSECTIONS:** Make sure your report pages are linked as subpages of your group, rather than new pages on the wiki. This makes the wiki less messy, and a concise report structure is expected for your final submission anyways.
+-	**FINAL WIKI PAGE STRUCTURE:** Keep in mind that your final wiki page should take the form of a report. This means you should structure it with clear chapters, subchapters, and other logical sections. It is encouraged to start with an introduction listing the questions your report would answer, as this would set an expectation of what to expect for the readers. Your final wiki page should be structured as a formal report, with clear chapters, subchapters, and other logical sections that guide the reader through your content. It is strongly encouraged to open with an introduction that explicitly lists the questions your report will answer – this gives readers a clear sense of what to expect. Note that the first assignment does not need to be included in the final report. If you wish to include it, you may place it inside a _details_ section. **Please keep all contents of the page in English**. This does not only pertain to the text of the report, but also the labels of the graphs that you include. This is very important for the final report as not all TAs know German! 
+-	**CONTEXT AND GRAPHS:** Please provide enough context for your analyses, i.e., introductory words about what to expect, potentially the motivation why you are investigating a particular aspect, and all information necessary to understand your analyses (definition of metrics or variables, filtering on the data, etc.). The reader should not have to look up your code to understand what you have actually done. Remember to label your graphics and legends and ensure they are easy to read. Graphics should support your analysis and be straightforward to understand. Make sure the report does not contain too many tables/graphics/videos, as it makes it tough to read the report. If it is necessary to include them, place them inside drop-down sections and refer to the corresponding graphic in the main text, keeping the main text readable.
+-	**INTERPRETATIONS:** Your report should include meaningful interpretations, not just a repetition of the numbers you observe. However, keep in mind that you should also avoid over-interpreting your result or drawing conclusions that are not supported by the data. For example: If a player has a high number of completed passes during a game, this alone does not automatically mean that the player is “dynamic” or particularly more important for the team.
+-	**NEW DATA:** Now that the latest match data has been added to Polybox, consider incorporating it into your analysis — broader coverage will make your findings more robust and representative. Also, consider benchmarking data analyses against the competition average for more meaningful results.
+
+</details>
+
+
+</details>
+
+
+# In possession of the ball
+
+In the following we will analyze the attacking behaviour of Napoli.
+
+<details>
+<summary>Passes</summary>
+
+- The code can be found here for generating the plots.
+[Passes](https://gitlab.ethz.ch/socceranalytics/uefa-cl-2025-2026/-/wikis/Passes)
+
+
+![pass_network](uploads/4def8a44aa880e128b9fe56e856091f2/pass_network.jpeg)
+
+As the data from Manchester City match suggests, Napoli try to play progressively with direct passes in build-up. For this game Sam Beukema and Stanislav Lobotka  acted as the connection between defence and attack. The progression patterns suggests that the build-up is heavier on the left side. This will become more clear in the pass volume heatmap. Regarding the attack shape, the forward players are positioned relatively narrow around the central corridor. The network is not very wing-isolation heavy and long balls are not preferred. Instead the team attempts to access central zones with direct passes.
+
+![napoli_pass_volume_heatmap](uploads/275be3a9baf5a0c549934ff664733dcc/napoli_pass_volume_heatmap.png)
+
+Highest activity is around central midfield and half-spaces. The interesting point is that, Napoli did not manage to have much activity with the ball in and around the opponent penalty box. They usually lose control of the ball after the final third. This data also matches the pass network data for Manchester City game as they have more volume on the left half-space.
+
+![napoli_passing_volume_efficiency](uploads/1481bfd40651bcd9a586f8d2d80ae844/napoli_passing_volume_efficiency.png)
+
+This plot now strengthens our conclusions from before. The main takeaway is that Napoli are extremely active in circulation and decent at moving the ball forward. The overall passing volume indicates strong control phases, high-possession football and patient build-up. The progressive passes and final third access is actually pretty impressive. They can advance territory and break midfield lines especially with their high-quality midfielders including Kevin De Bruyne (although he only could play 3 games because of his injury), Scott McTominay and Eljif Elmas). The issue is not progression, but rather the final action. This will be elaborated more in the coming section.
+
+</details>
+
+<details>
+<summary>Overall attack</summary>
+
+![napoly_radar_attack](uploads/39adf6c90ffe1a1e7adffcf419f9c30e/napoly_radar_attack.png)
+
+This radar chart is the most informative attack data summarizing every aspect covered so far. Progressive carries, passes and the access to the final third are way better than the league average. Also, they have managed to find passes into the penalty area. The ball progression quality and entering advanced zones is high. The problem is that these actions don't contribute much to the score, as the final actions are poor. Indeed, they are one of the worst teams in the metric OVB (on-ball-value), which estimates how much the actions increase scoring probability. regarding other metrics about goal scoring, Napoli falls behind too.  They struggle creating xG from open play despite their high-progression and box-entries.
+
+Common reason to this struggle with final execution and chance creation mechanics could be poor spacing inside the box, weaker striker movement and predictable final passes. An elite striker could be able to either score goals from low xG shots or create more chances with dummy runs or better positioning.
+
+![napoli_attack_shot_map_rotated_half](uploads/1576adcde8fdab7a9e987fb97a3682e3/napoli_attack_shot_map_rotated_half.png)
+
+The shot map reinforces the idea that Napoli are a possession-oriented side that can consistently move the ball into dangerous attacking areas, but do not always convert that territorial dominance into truly high-quality chances. Most of their shots come from central positions around the penalty area, which is generally a positive sign because central shots tend to carry higher expected goal values than attempts from wide angles. The clustering of shots around the edge of the six-yard box and the penalty spot suggests that Napoli are capable of progressing through midfield and entering advanced zones with regularity rather than relying on speculative long-range efforts or hopeful crosses.
+
+At the same time, the distribution and size of the circles indicate that many of these attempts are only medium-quality opportunities rather than clear-cut chances. There are relatively few very large xG shots directly in front of goal, which suggests that opponents are often still defensively organized when Napoli take their shots. This fits well with the earlier passing and progression data: Napoli appear technically strong in buildup and final-third access, but slightly less effective at creating the kind of defensive disorganization that leads to easy finishes or tap-ins. Overall, the shot map portrays a team that sustains attacking pressure and generates a solid volume of central shots, yet lacks the final layer of penetration and efficiency seen in Europe’s most clinical attacking sides.
+</details>
+
+# Transition after losing the ball
+
+- The code can be found here for generating the plots.
+[Source Code](https://gitlab.ethz.ch/socceranalytics/uefa-cl-2025-2026/-/wikis/Helper-Python-files)
+
+<details>
+<summary>Ball losses</summary>
+
+![ball_losses](uploads/44bd55c51cd812ad460df519c1d86a56/ball_losses.jpeg)
+
+The ball loss map shows a slight bias toward Napoli’s left attacking side, with lost balls increasing as they progress further up the pitch. There’s also a noticeable cluster of losses near the corners, suggesting that crosses or short corner routines are often ending in immediate ball losses. Additionally, a small concentration of losses just near the 5 meter line points to issues in precise goal kicks or retaining possession after goal kicks, where the first or second pass under pressure may be breaking down.
+
+![napoli_loss_to_shot_rate_vs_average](uploads/1271d826fa6e751177519e2d6771b31f/napoli_loss_to_shot_rate_vs_average.png)
+
+The heatmap shows that Napoli’s center backs are not a major source of danger, as they rarely lose the ball in situations that lead to opposition shots. In contrast, the left side is more problematic, with a higher number of ball losses that result in shots. The most significant vulnerability, however, lies in central midfield, where turnovers frequently allow the opposition to progress directly to a shot. This suggests that losses in this area are not sufficiently controlled, making central midfield the key zone of defensive weakness.
+
+</details>
+
+<details>
+<summary>Pressure and defensive actions</summary>
+
+![pressure_heatmap](uploads/79534e6b1bf2baf8035acd527ebe226c/pressure_heatmap.jpeg)
+
+As we can see, the pressure is relatively dense in the opponent's half and wide spaces. Napoli tries to step high when possible and press in the opponent's build-up and progression zones. That the activity in the center is not so high can be linked to Napoli's defensive strategy, which is to funnel the play outwards and to force the opponent to build-up through the flanks. They don't open up the play too aggressively and prefer to press near sidelines while keeping the center crowded. The recovery data also supports this as most of the balls won in the opponent's half are near the right touchline.
+
+![interception_heatmap](uploads/560630f8fd4ab11a92867a47e9cb3926/interception_heatmap.jpeg)
+
+You can clearly see from the heatmap that Napoli make the vast majority of their interceptions in their own half. When they do win the ball higher up the pitch, it tends to happen mainly in the wide areas rather than centrally. This pattern suggests that their attacking players apply a good pressing forcing opponents toward the wings, where Napoli can then trap and intercept effectively.
+
+![defensive_actions](uploads/a86675de6e7af30659a89a1aa00c613a/defensive_actions.jpeg)
+
+Pressure dominates the defensive actions by far, which suggests that they pressure intensely after losing the ball. Moreover, especially the ball recovery data is denser in the left side of attacking third, and right side of defensive third. This shows that Napoli tries to force the opponents to the right flank when defending. For the offensive part, also the ball losses are dense in the left attacking third, which means that they preferably attack wide left and therefore lose more balls there and have more chances to regain the possession, supported by pressure data too.
+
+The heat-map further suggests that Napoli's defense is primarily based on active engagement, contesting the ball early in the attacking third and affecting the opponent build-up in their half. After that insense pressure in the very first seconds of ball-loss or a similar action, they then defend deeper.
+
+</details>
+
+
+<details>
+<summary>Ball recovery</summary>
+
+![ball_recovery_heatmap](uploads/3c9fa877bb604cc98c6ef9658c28db4d/ball_recovery_heatmap.jpeg)
+
+Although Napoli presses high in the opponent's half to disturb their build-up, the data suggests that after a while, they wait a little bit deeper, as most of the balls recovered are in the middle third and their own half and only few balls won in the attacking third.
+
+A reason that Napoli wins back the balls deeper is that they force the opponent to play wide and cut their passing channels, forcing weaker next actions, which are then recovered by the second line. So, the data suggests Napoli destabilize the opponent before recovering possession through supporting structure behind the first line.
+
+![recovery_time_after_ball_loss](uploads/38a5f9594bdbe3255aff1bb598848293/recovery_time_after_ball_loss.jpeg)
+
+Napoli’s recovery time distribution highlights an effective counter pressing approach after losing possession. The median recovery time of around 2 to 3 seconds indicates that they typically regain the ball very quickly, while the interquartile range extending only to about 6 to 7 seconds further reinforces how consistently fast these recoveries are. This suggests a well organized and aggressive immediate press.
+
+As expected, the presence of outliers shows that this strategy is not always successful. When the initial counter-press is bypassed, recovery times increase significantly. Linking this to the ball loss map, it is reasonable to assume that losses in the final third are less effectively counter pressed than those closer to Napoli’s own goal, where defensive structure and player density make regaining possession easier.
+
+
+
+</details>
+
+

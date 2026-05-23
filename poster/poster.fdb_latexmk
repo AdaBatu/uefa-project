@@ -1,5 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1779219774.88449 "poster.tex" "poster.pdf" "poster" 1779219775.82426 0
+["pdflatex"] 1779544537.04905 "/Users/adabatu/Desktop/Github/uefa project/poster/poster.tex" "poster.pdf" "poster" 1779544537.9516 0
+  "/Users/adabatu/Desktop/Github/uefa project/poster/poster.tex" 1779544536.83904 6883 f95f6958d2faa8576c922a311490188b ""
   "/usr/local/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/jknappen/ec/ecrm1000.tfm" 1136768653 3584 adb004a0c8e7c46ee66cad73671f37b4 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/jknappen/ec/ecrm2488.tfm" 1136768653 3584 406ad7b70d9a41f7833f92b6313150c8 ""
@@ -157,12 +158,13 @@
   "/usr/local/texlive/2026/texmf-var/web2c/pdftex/pdflatex.fmt" 1776882554 3636773 32319430bb4154609cdfcc7d784089b3 ""
   "/usr/local/texlive/2026/texmf.cnf" 1774209515 577 648cd9f92f9c0eac486f4c71c85cfbbe ""
   "ethz.pdf" 1778324433 221715 15db2edd190d6c560f7a08559be260b0 ""
-  "poster.aux" 1779219775.78003 1682 556bcf3540c3f367d807adb86fa0cbdb "pdflatex"
-  "poster.tex" 1779219769.46988 8430 8d92f72c4a06f0a7e62b139156f2040c ""
-  "poster_attack_radar.png" 1779219311.03173 69469 b53906c34b4acb19d2c7e86cf1afd29d ""
+  "napoli_pass_length_outcome.png" 1779218694.30373 43851 a14eb0a572839665d08401c6210504f7 ""
+  "napoli_pressure_pass_success.png" 1779218694.4532 39204 c77058c0293e402b50b5745e73156333 ""
+  "napoly_radar.png" 1779217520.16488 148477 a950de1f37d99afc578cb6f92a03310c ""
+  "poster.aux" 1779544537.91552 1682 556bcf3540c3f367d807adb86fa0cbdb "pdflatex"
+  "poster.tex" 1779544536.83904 6883 f95f6958d2faa8576c922a311490188b ""
   "poster_loss_danger_vs_average.png" 1779219370.99564 76910 45a240c7d387e636e4b3060b9005b58e ""
-  "poster_pass_efficiency.png" 1779219311.24546 80236 82ca9c010471d6350156f0be2e5a6585 ""
-  "poster_pressure_success.png" 1779219311.28756 47616 174a45aacb32a32c64f3097e2372fc72 ""
+  "poster_passing_volume_efficiency.png" 1779219433.04032 106146 6b99d47fd72b237a27b24fe428302ce4 ""
   "poster_shot_map.png" 1779219311.14732 226379 5b834bea59cd2710d7ccaa7c094c07f2 ""
   "socceranalytics.tex" 1778323682 5791 4fcbb90ed9cde033927c61f77587c585 ""
   (generated)
